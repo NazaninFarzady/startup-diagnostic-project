@@ -1,0 +1,9 @@
+artifact,file,records
+Cleaning rules,documentation/cleaning_rules.csv,15
+Analysis assumptions,documentation/analysis_assumptions.csv,18
+Data dictionary,documentation/data_dictionary.csv,81
+Quality checks,outputs/quality/quality_check_results.csv,19
+Analysis code inventory,documentation/analysis_code_inventory.csv,10
+Data file manifest,documentation/data_file_manifest.csv,28
+Final output manifest,documentation/final_outputs_manifest.csv,50
+Environment versions,documentation/environment_versions.csv,6

@@ -1,0 +1,258 @@
+failure_record_id,Name,Sector,name_normalized,permalink,name,status,primary_category,country_code,verification_status
+FAIL_0001,Avant,Finance and Insurance,avant,/organization/avant-credit,Avant,operating,Analytics,USA,Needs manual verification
+FAIL_0002,Bitpass,Finance and Insurance,bitpass,/organization/bitpass,BitPass,closed,Curated Web,USA,Needs manual verification
+FAIL_0003,Cake Financial,Finance and Insurance,cakefinancial,/organization/cakefinancial,Cake Financial,acquired,Finance,USA,Needs manual verification
+FAIL_0004,Circle,Finance and Insurance,circle,/organization/circle,Circle,operating,Health Care,GBR,Needs manual verification
+FAIL_0004,Circle,Finance and Insurance,circle,/organization/circle-2,Circle,operating,Banking,IRL,Needs manual verification
+FAIL_0006,Clinkle,Finance and Insurance,clinkle,/organization/clinkle,Clinkle,operating,Finance,USA,Needs manual verification
+FAIL_0008,FundersClub,Finance and Insurance,fundersclub,/organization/fundersclub,FundersClub,operating,Finance,USA,Needs manual verification
+FAIL_0009,Fuze Network,Finance and Insurance,fuzenetwork,/organization/fuze-network,Fuze Network,acquired,Finance,USA,Needs manual verification
+FAIL_0012,LendUp,Finance and Insurance,lendup,/organization/lendup,LendUp,operating,Finance,USA,Needs manual verification
+FAIL_0013,LendingClub,Finance and Insurance,lendingclub,/organization/lending-club,Lending Club,ipo,Credit,USA,Needs manual verification
+FAIL_0014,LendLayer,Finance and Insurance,lendlayer,/organization/lendlayer,LendLayer,acquired,Big Data,UNKNOWN,Needs manual verification
+FAIL_0015,Loyal3,Finance and Insurance,loyal3,/organization/loyal3,LOYAL3,operating,Finance,USA,Needs manual verification
+FAIL_0016,Money360,Finance and Insurance,money360,/organization/money360,Money360,operating,Real Estate,USA,Needs manual verification
+FAIL_0017,Monitor110,Finance and Insurance,monitor110,/organization/monitor110,Monitor110,operating,Curated Web,USA,Needs manual verification
+FAIL_0018,Mozido,Finance and Insurance,mozido,/organization/mozido,Mozido,operating,Enterprise Software,USA,Needs manual verification
+FAIL_0019,Pawngo,Finance and Insurance,pawngo,/organization/pawngo,Pawngo,operating,Finance,USA,Needs manual verification
+FAIL_0020,Pay By Touch,Finance and Insurance,paybytouch,/organization/pay-by-touch,Pay By Touch,closed,Biometrics,USA,Needs manual verification
+FAIL_0023,ReadyForZero,Finance and Insurance,readyforzero,/organization/readyforzero,ReadyForZero,acquired,Finance,USA,Needs manual verification
+FAIL_0025,Seed,Finance and Insurance,seed,/organization/seed-2,Seed,operating,Software,USA,Needs manual verification
+FAIL_0027,SigFig,Finance and Insurance,sigfig,/organization/sigfig,SigFig,operating,Finance,USA,Needs manual verification
+FAIL_0028,Simple,Finance and Insurance,simple,/organization/banksimple,Simple,acquired,Banking,USA,Needs manual verification
+FAIL_0029,SmartAsset,Finance and Insurance,smartasset,/organization/smartasset,SmartAsset,operating,Finance,USA,Needs manual verification
+FAIL_0032,Taulia,Finance and Insurance,taulia,/organization/taulia,Taulia,operating,Enterprise Software,USA,Needs manual verification
+FAIL_0033,Tilt,Finance and Insurance,tilt,/organization/crowdtilt,Tilt,operating,Finance,USA,Needs manual verification
+FAIL_0035,TrustEgg,Finance and Insurance,trustegg,/organization/trustegg,TrustEgg,operating,Social Media,USA,Needs manual verification
+FAIL_0036,Upstart,Finance and Insurance,upstart,/organization/upstart,Upstart,operating,Finance,USA,Needs manual verification
+FAIL_0039,Vittana,Finance and Insurance,vittana,/organization/vittana,Vittana,operating,Curated Web,USA,Needs manual verification
+FAIL_0042,Wepay,Finance and Insurance,wepay,/organization/wepay,WePay,operating,Credit Cards,USA,Needs manual verification
+FAIL_0043,Wesabe,Finance and Insurance,wesabe,/organization/wesabe,Wesabe,closed,Finance,USA,Needs manual verification
+FAIL_0046,Ycharts,Finance and Insurance,ycharts,/organization/ycharts,YCharts,operating,Analytics,USA,Needs manual verification
+FAIL_0047,ZestFinance,Finance and Insurance,zestfinance,/organization/zestfinance,ZestFinance,operating,Analytics,USA,Needs manual verification
+FAIL_0049,Caviar,Accommodation and Food Services,caviar,/organization/caviar,Caviar,acquired,Curated Web,USA,Needs manual verification
+FAIL_0050,Chef'd,Accommodation and Food Services,chefd,/organization/chef-d,Chef'd,operating,Content Delivery,USA,Needs manual verification
+FAIL_0051,ChowNow,Accommodation and Food Services,chownow,/organization/chownow,ChowNow,operating,Hospitality,UNKNOWN,Needs manual verification
+FAIL_0052,Clover,Accommodation and Food Services,clover,/organization/clover,Clover,acquired,Mobile,USA,Needs manual verification
+FAIL_0052,Clover,Accommodation and Food Services,clover,/organization/clover-2,Clover,operating,Apps,CAN,Needs manual verification
+FAIL_0054,Dinner Lab,Accommodation and Food Services,dinnerlab,/organization/dinnerlab,Dinner Lab,operating,Hospitality,USA,Needs manual verification
+FAIL_0058,Maple,Accommodation and Food Services,maple,/organization/trymaple,Maple,operating,Mobile,USA,Needs manual verification
+FAIL_0059,Munchery,Accommodation and Food Services,munchery,/organization/munchery,Munchery,operating,Hospitality,UNKNOWN,Needs manual verification
+FAIL_0061,OrderAhead,Accommodation and Food Services,orderahead,/organization/orderahead,OrderAhead,operating,Design,USA,Needs manual verification
+FAIL_0063,Revolution Foods,Accommodation and Food Services,revolutionfoods,/organization/revolution-foods,Revolution Foods,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0065,SpoonRocket,Accommodation and Food Services,spoonrocket,/organization/spoonrocket,SpoonRocket,operating,Delivery,USA,Needs manual verification
+FAIL_0066,Sprig,Accommodation and Food Services,sprig,/organization/sprig-2,Sprig,operating,Delivery,USA,Needs manual verification
+FAIL_0066,Sprig,Accommodation and Food Services,sprig,/organization/sprig-3,Sprig,operating,Consumer Goods,USA,Needs manual verification
+FAIL_0067,Tonx,Accommodation and Food Services,tonx,/organization/tonx,Tonx,acquired,E-Commerce,USA,Needs manual verification
+FAIL_0068,Zesty,Accommodation and Food Services,zesty,/organization/zesty,Zesty,operating,Curated Web,GBR,Needs manual verification
+FAIL_0068,Zesty,Accommodation and Food Services,zesty,/organization/zestyapp,Zesty,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0075,Amino,Health Care,amino,/organization/amino,Amino,operating,Health Care,USA,Needs manual verification
+FAIL_0076,Arivale,Health Care,arivale,/organization/arivale,Arivale,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0077,Augmedix,Health Care,augmedix,/organization/augmedix,Augmedix,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0078,Avizia,Health Care,avizia,/organization/avizia,Avizia,operating,Communications Infrastructure,USA,Needs manual verification
+FAIL_0081,Better,Health Care,better,/organization/better-2,better.,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0081,Better,Health Care,better,/organization/better-ag,Better,operating,Education,USA,Needs manual verification
+FAIL_0083,BioBeats,Health Care,biobeats,/organization/biobeats,BioBeats,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0086,CareSync,Health Care,caresync,/organization/caresync,CareSync,operating,Curated Web,USA,Needs manual verification
+FAIL_0089,Clinkle,Health Care,clinkle,/organization/clinkle,Clinkle,operating,Finance,USA,Needs manual verification
+FAIL_0095,Eargo,Health Care,eargo,/organization/aria-innovations,Eargo,operating,Audio,USA,Needs manual verification
+FAIL_0096,FitStar,Health Care,fitstar,/organization/fitstar,FitStar,acquired,Health and Wellness,USA,Needs manual verification
+FAIL_0097,Ginger,Health Care,ginger,/organization/ginger,Ginger,operating,Apps,UNKNOWN,Needs manual verification
+FAIL_0102,HealthSpot,Health Care,healthspot,/organization/healthspot,HealthSpot,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0103,HealthTap+,Health Care,healthtap,/organization/healthtap,HealthTap,operating,Doctors,USA,Needs manual verification
+FAIL_0104,HealthifyMe,Health Care,healthifyme,/organization/healthifyme,HealthifyMe,operating,Health and Wellness,IND,Needs manual verification
+FAIL_0105,InTouch Health,Health Care,intouchhealth,/organization/intouch-health,InTouch Health,operating,Medical Devices,USA,Needs manual verification
+FAIL_0107,Jawbone,Health Care,jawbone,/organization/jawbone,Jawbone,operating,Consumer Electronics,USA,Needs manual verification
+FAIL_0109,Kyruus,Health Care,kyruus,/organization/kyruus,Kyruus,operating,Analytics,USA,Needs manual verification
+FAIL_0110,Lantern,Health Care,lantern,/organization/thriveon,Lantern,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0111,Lantern Pharma,Health Care,lanternpharma,/organization/lantern-pharma,Lantern Pharma,operating,Alternative Medicine,USA,Needs manual verification
+FAIL_0120,Omada Health,Health Care,omadahealth,/organization/omada-health,Omada Health,operating,EdTech,USA,Needs manual verification
+FAIL_0121,Outset Medical,Health Care,outsetmedical,/organization/outset-medical,Outset Medical,operating,Medical Devices,USA,Needs manual verification
+FAIL_0122,Pear Therapeutics,Health Care,peartherapeutics,/organization/pear-therapeutics,Pear Therapeutics,operating,Biotechnology,USA,Needs manual verification
+FAIL_0123,PillPack,Health Care,pillpack,/organization/pillpack,PillPack,operating,Finance,USA,Needs manual verification
+FAIL_0124,Proteus Digital Health,Health Care,proteusdigitalhealth,/organization/proteus-biomedical,Proteus Digital Health,operating,Biotechnology,USA,Needs manual verification
+FAIL_0126,Scanadu,Health Care,scanadu,/organization/scanadu,Scanadu,operating,Health Care,USA,Needs manual verification
+FAIL_0127,Sherpaa,Health Care,sherpaa,/organization/sherpaa,Sherpaa,operating,Health and Wellness,USA,Needs manual verification
+FAIL_0128,Sprig,Health Care,sprig,/organization/sprig-2,Sprig,operating,Delivery,USA,Needs manual verification
+FAIL_0128,Sprig,Health Care,sprig,/organization/sprig-3,Sprig,operating,Consumer Goods,USA,Needs manual verification
+FAIL_0130,Theranos,Health Care,theranos,/organization/theranos,Theranos,operating,Biotechnology,UNKNOWN,Needs manual verification
+FAIL_0132,uBiome,Health Care,ubiome,/organization/ubiome,uBiome,operating,Big Data,USA,Needs manual verification
+FAIL_0133,Zeo,Health Care,zeo,/organization/zeo,Zeo,closed,Analytics,USA,Needs manual verification
+FAIL_0134,Airware,Manufacturing,airware,/organization/airware,Airware,operating,Aerospace,USA,Needs manual verification
+FAIL_0135,Anki,Manufacturing,anki,/organization/anki,Anki,operating,Artificial Intelligence,USA,Needs manual verification
+FAIL_0140,Better Place,Manufacturing,betterplace,/organization/better-place,Better Place,acquired,Clean Technology,USA,Needs manual verification
+FAIL_0141,Butterfly Network,Manufacturing,butterflynetwork,/organization/butterfly-network,Butterfly Network,operating,Software,USA,Needs manual verification
+FAIL_0144,Elio Motors,Manufacturing,eliomotors,/organization/elio-motors,Elio Motors,operating,Translation,USA,Needs manual verification
+FAIL_0147,Fisker Automotive,Manufacturing,fiskerautomotive,/organization/fisker,Fisker Automotive,acquired,Automotive,USA,Needs manual verification
+FAIL_0149,Hello,Manufacturing,hello,/organization/hello,Hello,operating,E-Commerce,USA,Needs manual verification
+FAIL_0150,Jawbone,Manufacturing,jawbone,/organization/jawbone,Jawbone,operating,Consumer Electronics,USA,Needs manual verification
+FAIL_0151,Juicero,Manufacturing,juicero,/organization/juicero,Juicero,closed,Service Providers,UNKNOWN,Needs manual verification
+FAIL_0152,Light,Manufacturing,light,/organization/light,light,operating,Photography,USA,Needs manual verification
+FAIL_0154,Lytro,Manufacturing,lytro,/organization/lytro,Lytro,operating,Hardware,USA,Needs manual verification
+FAIL_0155,MakerBot,Manufacturing,makerbot,/organization/makerbot,MakerBot,acquired,DIY,UNKNOWN,Needs manual verification
+FAIL_0158,Pebble,Manufacturing,pebble,/organization/pebble,Pebble,operating,Hardware + Software,USA,Needs manual verification
+FAIL_0160,Rethink Robotics,Manufacturing,rethinkrobotics,/organization/rethink-robotics,Rethink Robotics,operating,Manufacturing,USA,Needs manual verification
+FAIL_0162,Thalmic Labs,Manufacturing,thalmiclabs,/organization/get-myo,Thalmic Labs,operating,Health and Wellness,CAN,Needs manual verification
+FAIL_0164,99dresses,Retail Trade,99dresses,/organization/99dresses,99dresses,closed,Fashion,AUS,Needs manual verification
+FAIL_0167,Auctionata,Retail Trade,auctionata,/organization/auctionata,Auctionata,operating,Auctions,DEU,Needs manual verification
+FAIL_0169,Beepi,Retail Trade,beepi,/organization/beepi,Beepi,operating,Automotive,USA,Needs manual verification
+FAIL_0170,Boxed,Retail Trade,boxed,/organization/boxed,Boxed,operating,Apps,USA,Needs manual verification
+FAIL_0171,BurstIQ,Retail Trade,burstiq,/organization/burstiq,burstIQ,operating,Software,UNKNOWN,Needs manual verification
+FAIL_0172,Carwoo,Retail Trade,carwoo,/organization/carwoo,CarWoo!,closed,Auto,USA,Needs manual verification
+FAIL_0175,Combatant Gentlemen,Retail Trade,combatantgentlemen,/organization/combatant-gentlemen,Combatant Gentlemen,operating,E-Commerce,USA,Needs manual verification
+FAIL_0178,Din,Retail Trade,din,/organization/din,Din,operating,Restaurants,UNKNOWN,Needs manual verification
+FAIL_0180,Drizly,Retail Trade,drizly,/organization/drizly,Drizly,operating,Delivery,USA,Needs manual verification
+FAIL_0181,Drync,Retail Trade,drync,/organization/drync,Drync,operating,Mobile,USA,Needs manual verification
+FAIL_0182,Ecomom,Retail Trade,ecomom,/organization/ecomom,ecomom,acquired,E-Commerce,USA,Needs manual verification
+FAIL_0183,ElectricObjects,Retail Trade,electricobjects,/organization/electric-objects,Electric Objects,operating,Electronics,USA,Needs manual verification
+FAIL_0185,Fancy,Retail Trade,fancy,/organization/fancy,Fancy,operating,Curated Web,USA,Needs manual verification
+FAIL_0186,Fashism,Retail Trade,fashism,/organization/fashism,Fashism,closed,Fashion,USA,Needs manual verification
+FAIL_0187,Fiksu,Retail Trade,fiksu,/organization/fiksu,Fiksu,operating,Apps,USA,Needs manual verification
+FAIL_0188,Fobo,Retail Trade,fobo,/organization/fobo,FOBO,acquired,Hardware + Software,USA,Needs manual verification
+FAIL_0190,Goldbely,Retail Trade,goldbely,/organization/goldbely,Goldbely,operating,E-Commerce,USA,Needs manual verification
+FAIL_0191,Good Eggs,Retail Trade,goodeggs,/organization/good-eggs,Good Eggs,operating,Delivery,USA,Needs manual verification
+FAIL_0192,Graze,Retail Trade,graze,/organization/graze,Graze,operating,E-Commerce,USA,Needs manual verification
+FAIL_0194,Havenly,Retail Trade,havenly,/organization/havenly,Havenly,operating,Curated Web,USA,Needs manual verification
+FAIL_0195,Heyday,Retail Trade,heyday,/organization/hey,Heyday,operating,Local Businesses,USA,Needs manual verification
+FAIL_0196,HobbyDB,Retail Trade,hobbydb,/organization/hobbydb,hobbyDB,operating,Collectibles,USA,Needs manual verification
+FAIL_0197,Homejoy,Retail Trade,homejoy,/organization/homejoy,Homejoy,closed,Hospitality,USA,Needs manual verification
+FAIL_0199,Ibotta,Retail Trade,ibotta,/organization/ibotta,Ibotta,operating,Mobile,USA,Needs manual verification
+FAIL_0202,Ipsy,Retail Trade,ipsy,/organization/personalized-beauty-discovery,ipsy,operating,Beauty,USA,Needs manual verification
+FAIL_0204,JustFab,Retail Trade,justfab,/organization/justfabulous,JustFab,operating,E-Commerce,USA,Needs manual verification
+FAIL_0205,Karma,Retail Trade,karma,/organization/karma,Karma,acquired,Mobile,USA,Needs manual verification
+FAIL_0205,Karma,Retail Trade,karma,/organization/karma-2,Karma,operating,Internet Service Providers,USA,Needs manual verification
+FAIL_0205,Karma,Retail Trade,karma,/organization/karma-5,Karma,operating,Media,UNKNOWN,Needs manual verification
+FAIL_0205,Karma,Retail Trade,karma,/organization/karma-labs,Karma,operating,Collaborative Consumption,USA,Needs manual verification
+FAIL_0207,Lot18,Retail Trade,lot18,/organization/lot18,Lot18,operating,Hospitality,USA,Needs manual verification
+FAIL_0208,Markafoni,Retail Trade,markafoni,/organization/markafoni,Markafoni,acquired,E-Commerce,TUR,Needs manual verification
+FAIL_0209,Massdrop,Retail Trade,massdrop,/organization/massdrop,Massdrop,operating,E-Commerce,USA,Needs manual verification
+FAIL_0210,Mayvenn,Retail Trade,mayvenn,/organization/mayvenn,Mayvenn,operating,Beauty,USA,Needs manual verification
+FAIL_0212,ModCloth,Retail Trade,modcloth,/organization/modcloth,ModCloth,operating,Crowdsourcing,UNKNOWN,Needs manual verification
+FAIL_0213,MoveLoot,Retail Trade,moveloot,/organization/move-loot,Move Loot,operating,Consumer Goods,USA,Needs manual verification
+FAIL_0214,Nasty Gal,Retail Trade,nastygal,/organization/nasty-gal,Nasty Gal,operating,E-Commerce,USA,Needs manual verification
+FAIL_0215,One Kings Lane,Retail Trade,onekingslane,/organization/one-kings-lane,One Kings Lane,operating,E-Commerce,USA,Needs manual verification
+FAIL_0216,Operator,Retail Trade,operator,/organization/operator,Operator,operating,Unknown,UNKNOWN,Needs manual verification
+FAIL_0216,Operator,Retail Trade,operator,/organization/operator-2,Operator,operating,E-Commerce Platforms,USA,Needs manual verification
+FAIL_0217,Outdoor Voices,Retail Trade,outdoorvoices,/organization/outdoor-voices,Outdoor Voices,operating,Brand Marketing,USA,Needs manual verification
+FAIL_0218,Peerby,Retail Trade,peerby,/organization/peerby,Peerby,operating,Curated Web,NLD,Needs manual verification
+FAIL_0219,PetCube,Retail Trade,petcube,/organization/petcube,Petcube,operating,Consumer Electronics,USA,Needs manual verification
+FAIL_0220,Pets.com,Retail Trade,petscom,/organization/pets-com-2,Pets.com,operating,E-Commerce,USA,Needs manual verification
+FAIL_0222,Plum District,Retail Trade,plumdistrict,/organization/plum-district,Plum District,operating,Curated Web,USA,Needs manual verification
+FAIL_0225,Quirky,Retail Trade,quirky,/organization/quirky,Quirky,closed,Crowdsourcing,USA,Needs manual verification
+FAIL_0230,Selltag,Retail Trade,selltag,/organization/selltag,Selltag,operating,E-Commerce,ESP,Needs manual verification
+FAIL_0231,ShopKeep,Retail Trade,shopkeep,/organization/shopkeep-com,ShopKeep,operating,Cloud Computing,USA,Needs manual verification
+FAIL_0232,Shopkick,Retail Trade,shopkick,/organization/shopkick,shopkick,acquired,Mobile,USA,Needs manual verification
+FAIL_0233,Shoptiques,Retail Trade,shoptiques,/organization/shoptiques,Shoptiques,operating,Fashion,USA,Needs manual verification
+FAIL_0234,Slice,Retail Trade,slice,/organization/project-slice,Slice,acquired,Curated Web,USA,Needs manual verification
+FAIL_0235,Spring,Retail Trade,spring,/organization/spring,Spring,operating,Credit Cards,USA,Needs manual verification
+FAIL_0236,Teespring,Retail Trade,teespring,/organization/teespring,Teespring,operating,E-Commerce,USA,Needs manual verification
+FAIL_0241,ToVieFor,Retail Trade,toviefor,/organization/toviefor,ToVieFor,closed,E-Commerce,USA,Needs manual verification
+FAIL_0242,Tradesy,Retail Trade,tradesy,/organization/tradesy,Tradesy,operating,E-Commerce,USA,Needs manual verification
+FAIL_0243,Trunk Club,Retail Trade,trunkclub,/organization/the-trunk-club,Trunk Club,acquired,Fashion,USA,Needs manual verification
+FAIL_0245,Webvan,Retail Trade,webvan,/organization/webvan,Webvan,closed,Commodities,USA,Needs manual verification
+FAIL_0246,Wittlebee,Retail Trade,wittlebee,/organization/wittlebee,Wittlebee,acquired,E-Commerce,USA,Needs manual verification
+FAIL_0249,Zaarly,Retail Trade,zaarly,/organization/zaarly,Zaarly,operating,Android,USA,Needs manual verification
+FAIL_0252,Zing,Retail Trade,zing,/organization/zing-2,Zing,operating,E-Commerce,ITA,Needs manual verification
+FAIL_0253,Zola Books,Retail Trade,zolabooks,/organization/zola-books,Zola Books,operating,E-Commerce,USA,Needs manual verification
+FAIL_0254,Airy Labs,Information,airylabs,/organization/airy-labs,Airy Labs,operating,EdTech,USA,Needs manual verification
+FAIL_0258,Canvas,Information,canvas,/organization/canvas,Canvas,operating,Android,USA,Needs manual verification
+FAIL_0259,Change.org,Information,changeorg,/organization/change-org,Change.org,operating,Curated Web,USA,Needs manual verification
+FAIL_0260,Chirp,Information,chirp,/organization/chirp-2,Chirp,operating,Audio,GBR,Needs manual verification
+FAIL_0261,Cloudera,Information,cloudera,/organization/cloudera,Cloudera,operating,Analytics,USA,Needs manual verification
+FAIL_0262,Cocoon,Information,cocoon,/organization/cocoon-2,Cocoon,operating,Security,GBR,Needs manual verification
+FAIL_0264,CollabFinder,Information,collabfinder,/organization/collabfinder,CollabFinder,operating,Curated Web,USA,Needs manual verification
+FAIL_0266,Connect,Information,connect,/organization/connect-com,Connect,operating,Messaging,USA,Needs manual verification
+FAIL_0267,Coub,Information,coub,/organization/coub,Coub,operating,Curated Web,RUS,Needs manual verification
+FAIL_0268,Domo,Information,domo,/organization/domo,Domo,operating,Business Intelligence,USA,Needs manual verification
+FAIL_0269,Digg,Information,digg,/organization/digg,Digg,acquired,Design,USA,Needs manual verification
+FAIL_0272,Evernote,Information,evernote,/organization/evernote,Evernote,operating,Business Productivity,USA,Needs manual verification
+FAIL_0273,Exec,Information,exec,/organization/exec,Exec,acquired,Curated Web,USA,Needs manual verification
+FAIL_0274,EyeEm,Information,eyeem,/organization/eyeem,EyeEm,operating,Android,UNKNOWN,Needs manual verification
+FAIL_0275,Factual,Information,factual,/organization/factual,Factual,operating,Databases,USA,Needs manual verification
+FAIL_0276,Formspring,Information,formspring,/organization/formspring,Formspring,acquired,Curated Web,USA,Needs manual verification
+FAIL_0278,Friendster,Information,friendster,/organization/friendster,Friendster,acquired,Networking,MYS,Needs manual verification
+FAIL_0279,GeoCities,Information,geocities,/organization/geocities,GeoCities,acquired,Web Hosting,USA,Needs manual verification
+FAIL_0281,Gigya,Information,gigya,/organization/gigya,Gigya,operating,Enterprise Software,USA,Needs manual verification
+FAIL_0283,Gowalla,Information,gowalla,/organization/gowalla,Gowalla,acquired,Curated Web,USA,Needs manual verification
+FAIL_0284,Grooveshark,Information,grooveshark,/organization/grooveshark,Grooveshark,closed,File Sharing,USA,Needs manual verification
+FAIL_0285,GroupMe,Information,groupme,/organization/groupme,GroupMe,acquired,Messaging,USA,Needs manual verification
+FAIL_0287,Houseparty,Information,houseparty,/organization/house-party,House Party,operating,Advertising,USA,Needs manual verification
+FAIL_0288,Huddle,Information,huddle,/organization/huddle,Huddle,operating,Collaboration,USA,Needs manual verification
+FAIL_0290,IFTTT,Information,ifttt,/organization/if-this-then-that,IFTTT,operating,Consumer Internet,USA,Needs manual verification
+FAIL_0291,Inkling,Information,inkling,/organization/inkling,Inkling,operating,Software,USA,Needs manual verification
+FAIL_0293,Intercom,Information,intercom,/organization/intercom,Intercom,operating,Software,USA,Needs manual verification
+FAIL_0294,Invision,Information,invision,/organization/invision,INVISION,operating,Software,USA,Needs manual verification
+FAIL_0294,Invision,Information,invision,/organization/invision-2,InVision,operating,Design,USA,Needs manual verification
+FAIL_0295,Jawbone,Information,jawbone,/organization/jawbone,Jawbone,operating,Consumer Electronics,USA,Needs manual verification
+FAIL_0296,Jetpac,Information,jetpac,/organization/jetpac,Jetpac,acquired,Travel,USA,Needs manual verification
+FAIL_0297,Kik,Information,kik,/organization/kik-interactive,Kik,operating,Messaging,CAN,Needs manual verification
+FAIL_0298,Knewton,Information,knewton,/organization/knewton,Knewton,operating,Colleges,USA,Needs manual verification
+FAIL_0299,Mailbox,Information,mailbox,/organization/mailbox,Mailbox,acquired,Email,USA,Needs manual verification
+FAIL_0300,Maker Media,Information,makermedia,/organization/maker-media,Maker Media,operating,DIY,USA,Needs manual verification
+FAIL_0302,Milk,Information,milk,/organization/milk,Milk,acquired,Apps,USA,Needs manual verification
+FAIL_0303,Mixpanel,Information,mixpanel,/organization/mixpanel,Mixpanel,operating,Mobile Analytics,USA,Needs manual verification
+FAIL_0304,Mobli,Information,mobli,/organization/mobli,mobli,operating,Curated Web,ISR,Needs manual verification
+FAIL_0306,MySpace,Information,myspace,/organization/myspace,MySpace,acquired,Social Media,USA,Needs manual verification
+FAIL_0307,Netscape,Information,netscape,/organization/netscape,Netscape,acquired,News,USA,Needs manual verification
+FAIL_0310,Nuzzel,Information,nuzzel,/organization/nuzzel,Nuzzel,operating,News,USA,Needs manual verification
+FAIL_0311,Path,Information,path,/organization/path,Path,acquired,Mobile,USA,Needs manual verification
+FAIL_0313,Photobucket,Information,photobucket,/organization/photobucket,Photobucket,acquired,Curated Web,USA,Needs manual verification
+FAIL_0316,Plex,Information,plex,/organization/plex,Plex,operating,Games,USA,Needs manual verification
+FAIL_0317,Pocket,Information,pocket,/organization/pocket,Pocket,operating,Browser Extensions,USA,Needs manual verification
+FAIL_0318,Pulse,Information,pulse,/organization/pulse,Pulse,acquired,iPhone,USA,Needs manual verification
+FAIL_0318,Pulse,Information,pulse,/organization/pulse-2,Pulse,operating,Unknown,UNKNOWN,Needs manual verification
+FAIL_0319,Quibb,Information,quibb,/organization/quibb,Quibb,operating,Creative Industries,USA,Needs manual verification
+FAIL_0320,Quid,Information,quid,/organization/quid,Quid,operating,Big Data Analytics,USA,Needs manual verification
+FAIL_0321,Quixey,Information,quixey,/organization/quixey,Quixey,operating,Technology,USA,Needs manual verification
+FAIL_0325,RethinkDB,Information,rethinkdb,/organization/rethinkdb,RethinkDB,operating,Databases,USA,Needs manual verification
+FAIL_0326,Riffsy,Information,riffsy,/organization/riffsy,Riffsy,operating,Messaging,USA,Needs manual verification
+FAIL_0327,Rockmelt,Information,rockmelt,/organization/rockmelt,Rockmelt,acquired,Browser Extensions,USA,Needs manual verification
+FAIL_0328,Secret,Information,secret,/organization/secret,Secret,closed,Apps,USA,Needs manual verification
+FAIL_0329,ShareThis,Information,sharethis,/organization/sharethis,ShareThis,operating,Advertising,USA,Needs manual verification
+FAIL_0330,Songza,Information,songza,/organization/songza,Songza,acquired,Music,USA,Needs manual verification
+FAIL_0332,Soundwave,Information,soundwave,/organization/soundwave,Soundwave,operating,Analytics,IRL,Needs manual verification
+FAIL_0333,Spoke,Information,spoke,/organization/spoke,Spoke,operating,Contact Management,USA,Needs manual verification
+FAIL_0333,Spoke,Information,spoke,/organization/spoke-3,SPOKE,operating,E-Commerce,GBR,Needs manual verification
+FAIL_0333,Spoke,Information,spoke,/organization/spoke-4,Spoke,closed,Entertainment,LBN,Needs manual verification
+FAIL_0335,Tango,Information,tango,/organization/tango-2,Tango,operating,Android,USA,Needs manual verification
+FAIL_0336,Tasty Labs,Information,tastylabs,/organization/tasty-labs,Tasty Labs,acquired,Curated Web,USA,Needs manual verification
+FAIL_0337,TinyChat,Information,tinychat,/organization/tinychat,Tinychat,acquired,Chat,USA,Needs manual verification
+FAIL_0339,TokBox,Information,tokbox,/organization/tokbox,TokBox,acquired,Archiving,USA,Needs manual verification
+FAIL_0340,Top Hat,Information,tophat,/organization/tophat,Tophat,operating,EdTech,UNKNOWN,Needs manual verification
+FAIL_0341,Topix,Information,topix,/organization/topix,Topix,operating,Local Based Services,USA,Needs manual verification
+FAIL_0343,Tumblr,Information,tumblr,/organization/tumblr,Tumblr,acquired,Blogging Platforms,USA,Needs manual verification
+FAIL_0344,Treehouse,Information,treehouse,/organization/treehouse,Treehouse,operating,Android,USA,Needs manual verification
+FAIL_0344,Treehouse,Information,treehouse,/organization/treehouse-3,TreeHouse,operating,Retail,USA,Needs manual verification
+FAIL_0351,Vine,Information,vine,/organization/vine,Vine,acquired,Mobile,USA,Needs manual verification
+FAIL_0353,Whisper,Information,whisper,/organization/whisper,Whisper,operating,File Sharing,USA,Needs manual verification
+FAIL_0354,WhoSay,Information,whosay,/organization/whosay,WhoSay,operating,Games,USA,Needs manual verification
+FAIL_0357,Woo,Information,woo,/organization/woo-4,Woo,operating,Apps,IND,Needs manual verification
+FAIL_0358,Workable,Information,workable,/organization/workable-hr,Workable,operating,Human Resources,GBR,Needs manual verification
+FAIL_0360,Xobni,Information,xobni,/organization/xobni,Xobni,acquired,Software,USA,Needs manual verification
+FAIL_0365,Yammer,Information,yammer,/organization/yammer,Yammer,acquired,Enterprises,USA,Needs manual verification
+FAIL_0366,Yik Yak,Information,yikyak,/organization/yik-yak,Yik Yak,operating,Apps,USA,Needs manual verification
+FAIL_0367,Yo,Information,yo,/organization/yo,Yo,operating,Apps,USA,Needs manual verification
+FAIL_0368,Yola,Information,yola,/organization/yola,Yola,operating,Curated Web,UNKNOWN,Needs manual verification
+FAIL_0369,YouNow,Information,younow,/organization/younow,YouNow,operating,Broadcasting,USA,Needs manual verification
+FAIL_0371,Zencoder,Information,zencoder,/organization/zencoder,Zencoder,acquired,Audio,USA,Needs manual verification
+FAIL_0375,Zoomdata,Information,zoomdata,/organization/zoomdata,Zoomdata,operating,Analytics,USA,Needs manual verification
+FAIL_0376,Zopim,Information,zopim,/organization/zopim,Zopim,acquired,Chat,SGP,Needs manual verification
+FAIL_0378,Zulily,Information,zulily,/organization/zulily,zulily,acquired,Babies,USA,Needs manual verification
+FAIL_0382,Zuuka,Information,zuuka,/organization/zuuka,zuuka!,acquired,Apps,USA,Needs manual verification
+FAIL_0384,Bitpass,Information,bitpass,/organization/bitpass,BitPass,closed,Curated Web,USA,Needs manual verification
+FAIL_0386,BountyJobs,Information,bountyjobs,/organization/bountyjobs,BountyJobs,operating,Curated Web,USA,Needs manual verification
+FAIL_0387,BranchOut,Information,branchout,/organization/branchout,BranchOut,acquired,Career Management,USA,Needs manual verification
+FAIL_0388,Burstly,Information,burstly,/organization/burstly,Burstly,acquired,Advertising,USA,Needs manual verification
+FAIL_0390,Crunchyroll,Information,crunchyroll,/organization/crunchyroll,Crunchyroll,acquired,Games,USA,Needs manual verification
+FAIL_0391,Curse,Information,curse,/organization/curse,Curse,operating,Digital Media,USA,Needs manual verification
+FAIL_0392,DailyBurn,Information,dailyburn,/organization/dailyburn,DailyBurn,acquired,Exercise,USA,Needs manual verification
+FAIL_0393,Dailylook,Information,dailylook,/organization/dailylook,DailyLook,operating,E-Commerce,USA,Needs manual verification
+FAIL_0394,Datto,Information,datto,/organization/datto,Datto,operating,Business Services,USA,Needs manual verification
+FAIL_0395,Deem,Information,deem,/organization/deem,Deem,operating,Content Syndication,USA,Needs manual verification
+FAIL_0398,Divshot,Information,divshot,/organization/divshot,Divshot,closed,Application Platforms,USA,Needs manual verification
+FAIL_0400,Dunwello,Information,dunwello,/organization/dunwello,Dunwello,operating,Collaboration,USA,Needs manual verification
+FAIL_0402,Friend.ly,Information,friendly,/organization/friend-ly,Friend.ly,acquired,Curated Web,USA,Needs manual verification
+FAIL_0403,Frontback,Information,frontback,/organization/frontback,Frontback,closed,Curated Web,USA,Needs manual verification
+FAIL_0406,Hitpost,Information,hitpost,/organization/hitpost,Hitpost,acquired,Databases,USA,Needs manual verification
+FAIL_0408,Hot Potato,Information,hotpotato,/organization/hotpotato,Hot Potato,acquired,Social Media,USA,Needs manual verification
+FAIL_0409,Humanoid,Information,humanoid,/organization/humanoid,Humanoid,acquired,Audio,USA,Needs manual verification

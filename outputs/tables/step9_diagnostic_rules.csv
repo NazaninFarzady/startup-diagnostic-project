@@ -1,0 +1,23 @@
+rule_group,diagnostic,condition,priority,priority_score,rule_version
+Startup health,Cash runway,Runway under 3 months,Critical,3.0,1.0
+Startup health,Cash runway,Runway 3 to under 6 months,High,2.0,1.0
+Startup health,Cash runway,Runway 6 to under 12 months,Watch,1.0,1.0
+Startup health,Unit economics,LTV/CAC at or below 1,Critical,3.0,1.0
+Startup health,Unit economics,LTV/CAC above 1 to 2,High,2.0,1.0
+Startup health,Unit economics,LTV/CAC above 2 to 3,Watch,1.0,1.0
+Funding benchmark,Possible funding constraint,Funding percentile at or below 25% inside eligible peer cohort,Investigate,1.0,1.0
+Funding benchmark,Capital productivity,Funding percentile above 25% and at or below 75%,Monitor,1.0,1.0
+Funding benchmark,Possible capital inefficiency,Funding percentile above 75% inside eligible peer cohort,Investigate,1.0,1.0
+Historical sector risk,Competitive pressure,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,No Budget,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Poor Market Fit,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Acquisition Stagnation,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,High Operational Costs,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Monetization Failure,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Niche Limits,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Execution Flaws,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Trend Shifts,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Platform Dependency,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Toxicity/Trust Issues,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Regulatory Pressure,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0
+Historical sector risk,Overhype,Rank among the three most prevalent recorded signals in sector,Investigate,,1.0

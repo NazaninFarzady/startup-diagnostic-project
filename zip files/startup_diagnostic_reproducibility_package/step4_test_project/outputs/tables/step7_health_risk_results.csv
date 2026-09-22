@@ -1,0 +1,201 @@
+startup_id,stage,category_group,mrr_usd,runway_months,ltv_cac_ratio,health_status,primary_risk_signal,recommended_investigation
+STARTUP_001,Pre-Seed,Tech & Software,8039.02,2.6,2.58,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_002,Pre-Seed,Tech & Software,46151.82,9.2,4.61,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_003,Seed,Marketing & Media,20751.19,0.8,1.27,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_004,Pre-Seed,Marketing & Media,14694.14,1.5,2.87,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_005,Pre-Seed,Tech & Software,3544.37,3.9,0.85,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_006,Series A,Other,3543.94,1.3,2.77,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_007,Series A,Tech & Software,1897.58,1.9,1.04,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_008,Series A,Marketing & Media,31168.46,4.4,1.3,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_009,Series A,Marketing & Media,14786.23,9.6,1.29,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_010,Pre-Seed,Other,19468.75,9.1,3.53,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_011,Pre-Seed,Marketing & Media,1311.99,12.5,3.93,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_012,Seed,Other,53553.36,5.2,3.25,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_013,Seed,Tech & Software,27796.44,4.2,4.84,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_014,Pre-Seed,Other,4580.31,6.6,2.37,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_015,Seed,Tech & Software,4010.18,7.1,2.0,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_016,Pre-Seed,Other,4039.17,4.8,4.45,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_017,Pre-Seed,Marketing & Media,6441.31,7.0,1.74,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_018,Seed,Other,12158.92,5.2,4.85,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_019,Seed,Tech & Software,9483.06,7.4,0.85,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_020,Seed,Marketing & Media,6163.34,7.7,4.87,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_021,Pre-Seed,Marketing & Media,15195.56,4.7,0.98,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_022,Series A,Marketing & Media,3253.52,9.2,4.54,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_023,Pre-Seed,Tech & Software,6182.73,8.0,3.02,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_024,Pre-Seed,Tech & Software,7844.16,2.9,4.97,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_025,Series A,Tech & Software,10134.02,10.2,1.11,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_026,Series A,Tech & Software,24069.04,4.9,3.13,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_027,Series A,Other,4341.04,23.1,4.87,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_028,Seed,Tech & Software,11830.44,8.2,3.0,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_029,Seed,Other,14462.57,6.8,3.44,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_030,Seed,Tech & Software,1713.46,0.6,3.72,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_031,Pre-Seed,Tech & Software,15030.0,4.7,2.71,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_032,Pre-Seed,Marketing & Media,3804.42,15.8,3.44,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_033,Pre-Seed,Marketing & Media,2008.96,16.2,3.25,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_034,Pre-Seed,Tech & Software,45605.32,3.3,4.58,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_035,Seed,Marketing & Media,51559.46,1.9,0.99,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_036,Pre-Seed,Marketing & Media,25784.97,14.2,1.98,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_037,Pre-Seed,Tech & Software,6449.32,9.8,4.79,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_038,Pre-Seed,Other,2541.66,13.9,4.54,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_039,Seed,Other,18291.26,2.4,2.71,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_040,Pre-Seed,Marketing & Media,9701.36,5.8,3.4,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_041,Series A,Tech & Software,2952.28,0.8,1.97,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_042,Pre-Seed,Marketing & Media,11253.21,10.8,1.59,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_043,Pre-Seed,Tech & Software,1524.91,2.4,2.75,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_044,Seed,Tech & Software,37006.34,8.1,2.28,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_045,Seed,Tech & Software,5491.87,2.7,3.25,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_046,Pre-Seed,Tech & Software,17293.84,8.4,1.13,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_047,Seed,Other,6603.2,6.3,4.89,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_048,Seed,Marketing & Media,12011.66,15.7,4.94,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_049,Pre-Seed,Marketing & Media,12868.36,2.4,3.73,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_050,Series A,Tech & Software,4065.83,0.4,3.05,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_051,Seed,Tech & Software,53392.11,9.5,2.1,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_052,Seed,Tech & Software,23383.68,14.6,4.22,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_053,Series A,Other,43076.42,8.9,3.68,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_054,Series A,Tech & Software,34782.28,7.8,1.48,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_055,Seed,Other,14665.82,6.6,4.63,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_056,Seed,Marketing & Media,39241.53,10.1,4.25,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_057,Seed,Tech & Software,2389.83,2.4,4.79,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_058,Seed,Marketing & Media,4272.02,11.6,3.85,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_059,Seed,Tech & Software,1694.23,3.8,3.38,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_060,Seed,Other,6902.98,4.5,2.56,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_061,Pre-Seed,Other,8381.95,5.8,4.72,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_062,Series A,Tech & Software,5748.41,1.1,4.44,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_063,Series A,Tech & Software,27468.37,2.8,0.99,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_064,Pre-Seed,Marketing & Media,7618.4,10.4,0.91,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_065,Seed,Other,5947.04,1.2,2.38,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_066,Pre-Seed,Tech & Software,12736.11,8.5,4.2,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_067,Pre-Seed,Marketing & Media,3278.47,3.0,4.95,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_068,Seed,Marketing & Media,25307.25,3.0,1.43,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_069,Pre-Seed,Marketing & Media,2162.14,2.9,3.3,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_070,Seed,Tech & Software,66012.2,5.1,2.4,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_071,Seed,Marketing & Media,23192.26,6.3,4.87,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_072,Seed,Other,4323.09,4.4,4.34,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_073,Pre-Seed,Tech & Software,1083.06,20.0,4.32,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_074,Pre-Seed,Tech & Software,26348.45,8.7,2.77,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_075,Seed,Other,19406.44,20.2,2.54,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_076,Series A,Tech & Software,20584.94,12.7,1.95,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_077,Seed,Other,23128.22,8.8,1.04,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_078,Pre-Seed,Tech & Software,2153.94,1.9,4.43,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_079,Seed,Tech & Software,7658.39,0.7,4.21,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_080,Seed,Other,2847.25,3.7,5.0,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_081,Seed,Tech & Software,30827.94,5.8,4.99,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_082,Pre-Seed,Marketing & Media,15644.52,3.4,3.13,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_083,Seed,Tech & Software,7027.28,5.7,4.03,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_084,Seed,Marketing & Media,1985.02,5.9,4.77,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_085,Series A,Tech & Software,6587.33,8.1,4.37,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_086,Pre-Seed,Tech & Software,6899.71,6.8,1.84,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_087,Seed,Other,20618.14,1.5,2.69,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_088,Series A,Tech & Software,16223.34,1.5,1.34,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_089,Pre-Seed,Marketing & Media,33733.78,7.4,4.81,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_090,Series A,Tech & Software,10585.99,3.6,3.35,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_091,Seed,Marketing & Media,2910.59,7.9,1.76,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_092,Pre-Seed,Tech & Software,19736.9,5.0,3.62,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_093,Pre-Seed,Other,22455.89,3.8,3.4,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_094,Seed,Tech & Software,13358.31,13.6,2.3,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_095,Pre-Seed,Tech & Software,23108.35,7.6,1.28,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_096,Seed,Tech & Software,11212.22,11.6,3.62,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_097,Pre-Seed,Tech & Software,12095.18,3.5,2.99,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_098,Seed,Marketing & Media,9367.21,8.6,4.04,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_099,Pre-Seed,Tech & Software,1386.22,4.0,2.98,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_100,Series A,Other,2712.51,1.3,4.38,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_101,Series A,Tech & Software,1479.01,8.3,3.12,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_102,Series A,Tech & Software,16175.94,2.4,3.16,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_103,Seed,Marketing & Media,6660.95,12.5,4.48,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_104,Pre-Seed,Marketing & Media,11656.56,8.1,2.49,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_105,Seed,Tech & Software,36718.98,3.0,1.36,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_106,Pre-Seed,Tech & Software,5301.08,6.0,0.92,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_107,Pre-Seed,Tech & Software,8924.23,8.5,3.97,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_108,Pre-Seed,Marketing & Media,22131.24,12.6,3.41,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_109,Pre-Seed,Marketing & Media,4897.08,7.6,3.76,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_110,Seed,Tech & Software,2201.56,5.6,1.69,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_111,Seed,Other,6132.1,7.4,1.37,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_112,Pre-Seed,Other,3637.13,6.4,0.86,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_113,Pre-Seed,Marketing & Media,40824.25,4.4,2.27,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_114,Series A,Other,25763.31,10.1,3.28,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_115,Pre-Seed,Tech & Software,16052.41,6.9,2.45,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_116,Pre-Seed,Tech & Software,31772.8,8.0,2.64,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_117,Pre-Seed,Tech & Software,25419.53,9.4,4.6,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_118,Seed,Tech & Software,4097.43,0.9,2.26,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_119,Seed,Marketing & Media,34462.2,7.9,2.96,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_120,Pre-Seed,Other,12626.5,17.4,4.09,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_121,Pre-Seed,Tech & Software,25710.22,1.4,2.47,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_122,Seed,Tech & Software,34963.64,6.7,3.41,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_123,Seed,Tech & Software,6740.96,10.6,4.42,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_124,Pre-Seed,Other,2748.88,0.6,4.79,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_125,Series A,Tech & Software,4880.3,7.4,1.42,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_126,Pre-Seed,Marketing & Media,9355.87,3.6,4.69,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_127,Pre-Seed,Tech & Software,26557.45,14.9,2.87,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_128,Series A,Tech & Software,30570.17,10.1,1.88,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_129,Pre-Seed,Other,1104.65,7.1,2.73,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_130,Seed,Other,11723.14,4.1,4.92,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_131,Pre-Seed,Tech & Software,9104.1,6.9,2.87,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_132,Pre-Seed,Other,4767.51,12.2,2.18,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_133,Series A,Marketing & Media,2915.21,6.0,3.46,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_134,Pre-Seed,Other,7178.63,10.4,1.81,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_135,Series A,Tech & Software,43946.82,0.8,1.12,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_136,Pre-Seed,Marketing & Media,6855.76,5.4,1.34,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_137,Pre-Seed,Tech & Software,11971.79,6.7,1.34,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_138,Pre-Seed,Marketing & Media,19211.3,1.2,1.44,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_139,Seed,Tech & Software,7779.62,1.4,1.38,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_140,Pre-Seed,Tech & Software,54516.97,9.8,3.49,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_141,Series A,Tech & Software,50230.15,6.4,1.56,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_142,Pre-Seed,Marketing & Media,5350.92,18.7,2.25,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_143,Series A,Tech & Software,11314.89,0.9,4.57,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_144,Pre-Seed,Marketing & Media,6368.96,4.0,2.79,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_145,Series A,Other,6028.75,11.3,3.6,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_146,Seed,Tech & Software,1563.77,16.3,1.52,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_147,Seed,Marketing & Media,15107.38,4.6,1.61,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_148,Seed,Tech & Software,11477.79,5.0,0.97,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_149,Seed,Other,1792.77,11.6,1.51,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_150,Seed,Tech & Software,5899.39,14.5,1.97,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_151,Pre-Seed,Marketing & Media,36832.91,3.4,1.54,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_152,Pre-Seed,Other,5107.91,0.7,1.17,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_153,Series A,Other,3347.96,52.5,1.31,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_154,Seed,Marketing & Media,11084.08,0.7,2.74,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_155,Seed,Tech & Software,64660.55,11.4,1.67,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_156,Pre-Seed,Marketing & Media,5157.17,5.3,2.33,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_157,Pre-Seed,Other,17727.33,7.1,2.91,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_158,Pre-Seed,Marketing & Media,22508.31,7.1,3.7,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_159,Seed,Tech & Software,5070.0,13.1,0.97,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_160,Pre-Seed,Other,20541.23,6.9,4.16,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_161,Pre-Seed,Marketing & Media,7877.84,5.1,3.44,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_162,Pre-Seed,Marketing & Media,16007.56,5.0,1.14,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_163,Pre-Seed,Tech & Software,16057.57,5.9,4.47,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_164,Seed,Marketing & Media,12510.78,7.7,4.67,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_165,Pre-Seed,Tech & Software,2419.44,9.9,1.06,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_166,Seed,Marketing & Media,28054.67,12.4,1.96,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_167,Pre-Seed,Tech & Software,6802.15,11.4,4.19,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_168,Pre-Seed,Marketing & Media,4096.48,6.4,3.94,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_169,Pre-Seed,Other,1624.45,5.3,1.57,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_170,Pre-Seed,Tech & Software,14406.68,10.8,1.68,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_171,Pre-Seed,Other,17977.78,4.1,2.36,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_172,Pre-Seed,Tech & Software,1250.9,1.6,2.83,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_173,Seed,Other,11764.46,4.9,3.4,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_174,Pre-Seed,Marketing & Media,4852.36,2.5,2.35,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_175,Seed,Marketing & Media,16541.87,19.2,2.74,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_176,Series A,Marketing & Media,3874.06,2.3,3.94,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_177,Seed,Other,18613.19,0.6,0.95,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_178,Pre-Seed,Tech & Software,8334.38,1.8,1.86,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_179,Pre-Seed,Tech & Software,42405.16,13.3,3.8,Healthy,No immediate threshold breach,Monitor trends before adding fixed cost.
+STARTUP_180,Pre-Seed,Marketing & Media,3219.17,6.1,4.56,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_181,Pre-Seed,Other,7256.99,8.8,2.95,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_182,Series A,Marketing & Media,2806.66,11.0,3.03,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_183,Pre-Seed,Marketing & Media,39792.86,4.5,1.25,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_184,Pre-Seed,Tech & Software,32475.01,7.3,2.68,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_185,Seed,Other,5474.91,7.3,3.04,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_186,Seed,Tech & Software,17181.44,1.0,1.82,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_187,Seed,Marketing & Media,26492.26,4.3,1.93,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_188,Pre-Seed,Tech & Software,13151.99,16.6,2.38,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_189,Pre-Seed,Tech & Software,12314.19,13.6,0.88,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_190,Seed,Tech & Software,5153.16,5.0,2.15,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_191,Pre-Seed,Tech & Software,2465.89,12.3,1.69,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_192,Pre-Seed,Marketing & Media,35126.85,1.9,2.18,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_193,Pre-Seed,Tech & Software,35601.62,12.9,1.3,High Risk,Unit economics only,Validate CAC by channel and LTV by customer cohort.
+STARTUP_194,Pre-Seed,Tech & Software,16040.05,3.5,4.54,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_195,Pre-Seed,Tech & Software,7210.7,9.2,3.29,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_196,Pre-Seed,Tech & Software,7443.51,6.9,3.65,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_197,Seed,Tech & Software,20416.98,8.4,4.11,Moderate Risk,Watch zone,Track runway and LTV/CAC monthly; test the weaker metric first.
+STARTUP_198,Seed,Tech & Software,35111.46,4.6,2.89,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.
+STARTUP_199,Seed,Marketing & Media,33716.99,4.7,1.17,High Risk,Runway and unit economics,Reduce burn immediately and retest acquisition economics.
+STARTUP_200,Pre-Seed,Marketing & Media,23703.43,2.0,3.06,High Risk,Runway only,Build a weekly cash plan and test burn reduction or financing.

@@ -1,0 +1,11 @@
+step,file,purpose,exists,size_bytes,sha256,pipeline_version
+Step 2,src\01_data_quality_audit.py,Audit raw CSV files,True,4478,5c109ca5c11750f1cd7c8e2c88476e0f724c2c8bb332f3c07ec0fcb7f22485e6,1.0
+Step 3,src\02_clean_and_standardize.py,Clean and standardize raw files,True,8903,0e5a22abb02a2a5c5d9bca8a1d34b54c775cb4eb633d8dae8e1f016dd8e32de7,1.0
+Runner,src\run_pipeline.py,Run the complete pipeline,True,3000,2be3cb257cae1d0ae2df083cdaed3ad7da0cf282e60df0a0956c6178bff8087a,1.0
+Step 4,notebooks\01_Build_Analysis_Ready_Tables.ipynb,Build separate analysis tables,True,23719,08932957c4c8cd103f24249990fa645a949cd522f6108e61ef05c2067ef07cbb,1.0
+Step 5,notebooks\02_Engineer_Useful_Features.ipynb,Engineer analysis features,True,21497,af68cf7e186aca8bd395cc43e88e0034d5957b8588935ae03695de7303b3a227,1.0
+Step 6,notebooks\03_Exploratory_Analysis.ipynb,Perform exploratory analysis,True,644798,bfd060dab0ce1e1a91235d912e3edbe7b1e403c79167880885c9961d109f871e,1.0
+Step 7,notebooks\04_Answer_Three_Diagnostic_Questions.ipynb,Answer the diagnostic questions,True,304774,c202c067b1a60170f228ef2522e0365523904d218a3e96547521cdf2d0ba5c32,1.0
+Step 8,notebooks\05_Validate_Findings.ipynb,Validate findings,True,232487,369eb7f6b64220ba7ff92f17d418858ba2081d383a5d9433a92cf9c53abc3473,1.0
+Step 9,notebooks\06_Convert_Findings_Into_Diagnostics.ipynb,Create diagnostic outputs,True,136910,cdc4a8e918d0a1c564e21c6a14acc68e922ea6ad041684dcd29aab749a939553,1.0
+Step 10,notebooks\07_Save_And_Reproduce_Pipeline.ipynb,Document and verify reproducibility,True,61182,67b1369b5a1a354880f1fa809c43060fe7fd18a48913de3d354d8ab536e156f3,1.0

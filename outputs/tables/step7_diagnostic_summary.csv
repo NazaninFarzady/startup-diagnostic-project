@@ -1,0 +1,4 @@
+Question,Dataset-level answer,Evidence,Recommended next test
+1. Health risk,Runway is the most common immediate bottleneck.,"93 runway breaches, 63 unit-economics breaches, and 28 startups breaching both.","Review weekly cash, burn reduction, CAC by channel, and LTV by customer cohort."
+2. Failure archetype,Competitive pressure is the dominant historical pattern.,Large incumbents and competition co-occur in 58.2% of failure records.,"Use the sector-specific secondary factor to choose the first customer, funnel, cost, or market test."
+3. Funding benchmark,Higher relative funding is associated with more observed exits and fewer closures.,Observed-exit share rises from 7.5% to 26.0% from the bottom to top peer-funding quarter.,"Compare the client with cohort Q1, median, and Q3, then combine that position with burn and runway."

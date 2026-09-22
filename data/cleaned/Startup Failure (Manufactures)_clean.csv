@@ -1,0 +1,31 @@
+Name,Sector,Years of Operation,What They Did,How Much They Raised,Why They Failed,Takeaway,Giants,No Budget,Competition,Poor Market Fit,Acquisition Stagnation,Platform Dependency,Monetization Failure,Niche Limits,Execution Flaws,Trend Shifts,Toxicity/Trust Issues,Regulatory Pressure,Overhype,name_normalized,start_year,end_year,funding_raised_usd,funding_needs_review,High Operational Costs,duplicate_name
+Airware,Manufacturing,2011-2018,Drone hardware/software for industry,$70M,Lost to DJI and high costs,Drones need simplicity,1,1,1,0,0,0,0,0,0,0,0,0,0,airware,2011,2018,70000000.0,False,,False
+Anki,Manufacturing,2010-2019,AI-powered toy robots,$200M,High costs and competition from Lego/Sphero,Consumer hardware needs mass pricing,1,1,1,0,0,0,0,0,0,0,0,0,0,anki,2010,2019,200000000.0,False,,False
+Aptera Motors,Manufacturing,2005-2011,Three-wheeled electric vehicles,$40M,Lost to Tesla and quirky design,EVs need mainstream appeal,1,0,1,1,0,0,0,0,0,0,0,0,0,apteramotors,2005,2011,40000000.0,False,,False
+Aria Insights,Manufacturing,2008-2019,Tethered industrial drones,$39M,Small market and lost to DJI/Skydio,Hardware niches need big adopters,1,0,1,1,0,0,0,1,0,0,0,0,0,ariainsights,2008,2019,39000000.0,False,,False
+August Home,Manufacturing,2012-2017,Smart locks and doorbells,$73M,Lost to Ring/Nest and acquired,Smart home needs ecosystem power,1,0,1,0,1,0,0,0,0,0,0,0,0,augusthome,2012,2017,73000000.0,False,,False
+BeagleBone,Manufacturing,2011-2018,Open-source computers,$5M,Lost to Raspberry Pi and small niche,Open-source needs community,1,0,1,1,0,0,0,1,0,0,0,0,0,beaglebone,2011,2018,5000000.0,False,,False
+Better Place,Manufacturing,2007-2013,EVs with swappable batteries,$850M,Lost to Tesla and high infra costs,Infra needs buy-in,1,1,1,0,0,0,0,0,0,0,0,0,0,betterplace,2007,2013,850000000.0,False,,False
+Butterfly Network,Manufacturing,2011-2020,Handheld ultrasound device,$400M,Lost to GE/Philips and slow adoption,Medical hardware needs fast inroads,1,1,1,1,0,0,0,0,0,0,0,0,0,butterflynetwork,2011,2020,400000000.0,False,,False
+Cubelets,Manufacturing,2011-2020,Modular toy robots,$10M,Lost to Lego/Sphero and niche focus,Edtech needs scale,1,0,1,1,0,0,0,1,0,0,0,0,0,cubelets,2011,2020,10000000.0,False,,False
+Dyson's EV Project,Manufacturing,2017-2019,Electric vehicle,$2.7B,Lost to Tesla/Nio and high costs,EVs are a giant’s game,1,1,1,0,0,0,0,0,0,0,0,0,1,dysonsevproject,2017,2019,2700000000.0,False,,False
+Elio Motors,Manufacturing,2009-2020,Cheap three-wheeled car,$30M,Lost to Toyota/Honda and delays,Cheap cars need delivery,1,0,1,0,0,0,0,0,1,0,0,0,0,eliomotors,2009,2020,30000000.0,False,,False
+Essential Products,Manufacturing,2015-2020,Premium smartphones,$330M,Poor sales vs Apple/Samsung,Smartphone giants are unbeatable,1,1,1,0,0,0,0,0,0,0,0,0,1,essentialproducts,2015,2020,330000000.0,False,,False
+Faraday Future,Manufacturing,2014-2023,Luxury electric vehicles,$3.5B,Mismanagement and Tesla/Rivian competition,EV hype needs execution,1,1,1,0,0,0,0,0,1,0,0,0,1,faradayfuture,2014,2023,3500000000.0,False,,False
+Fisker Automotive,Manufacturing,2007-2013,Luxury hybrid-electric cars,$1.4B,Lost to Tesla and supplier failure,Luxury EVs need reliability,1,1,1,0,0,1,0,0,1,0,0,0,0,fiskerautomotive,2007,2013,1400000000.0,False,,False
+GoPro Karma,Manufacturing,2015-2018,Consumer drone,$200M,Lost to DJI and recall issues,Drones need perfection,1,0,1,0,0,0,0,0,1,0,0,0,0,goprokarma,2015,2018,200000000.0,False,,False
+Hello,Manufacturing,2012-2017,Sleep-tracking orb,$40M,Lost to Fitbit/Apple Watch,Sleep tech must be wearable,1,0,1,0,0,0,0,0,0,1,0,0,0,hello,2012,2017,40000000.0,False,,False
+Jawbone,Manufacturing,2006-2017,Fitness trackers/speakers,$930M,Competition and quality issues,Fitness hardware needs quality,1,0,1,0,0,0,0,0,0,1,0,0,0,jawbone,2006,2017,930000000.0,False,,False
+Juicero,Manufacturing,2013-2017,Wi-Fi juicer,$120M,Overkill product vs Ninja/Breville,Hardware must solve real problems,1,1,1,0,0,0,0,0,1,1,0,0,0,juicero,2013,2017,120000000.0,False,,False
+Light,Manufacturing,2013-2020,Multi-lens camera,$70M,Smartphones caught up,Cameras can’t outrun trends,1,1,1,0,0,0,0,0,0,1,0,0,0,light,2013,2020,70000000.0,False,,False
+Lily Robotics,Manufacturing,2013-2017,Self-flying drone camera,$15M+$34M pre-orders,Couldn’t deliver vs DJI,Don’t overpromise hardware,1,1,1,0,0,0,0,0,1,0,0,0,1,lilyrobotics,2013,2017,15000000.0,True,,False
+Lytro,Manufacturing,2006-2018,Light-field cameras,$200M,Smartphones matched it vs Canon/Nikon,Cameras can’t beat smartphones,1,1,1,0,0,0,0,0,0,1,0,0,0,lytro,2006,2018,200000000.0,False,,False
+MakerBot,Manufacturing,2009-2017,Desktop 3D printers,$10M+$403M acquisition,Lost to Ultimaker/Prusa post-acquisition,3D printing needs precision,1,0,1,0,1,0,0,0,1,0,0,0,0,makerbot,2009,2017,10000000.0,True,,False
+Osmo Systems,Manufacturing,2013-2020,IoT water sensors,$3M,Niche market vs Hach,IoT needs a big niche,1,0,1,1,0,0,0,1,0,0,0,0,0,osmosystems,2013,2020,3000000.0,False,,False
+Pearl Automation,Manufacturing,2014-2017,Car rearview cameras,$50M,Lost to Tesla/Ford built-ins,Auto tech must beat OEMs,1,0,1,1,0,0,0,0,0,0,0,0,0,pearlautomation,2014,2017,50000000.0,False,,False
+Pebble,Manufacturing,2012-2016,Smartwatches,$40M,Lost to Apple Watch and sold,Smartwatches need ecosystems,1,0,1,0,1,0,0,0,0,0,0,0,0,pebble,2012,2016,40000000.0,False,,False
+Quanergy,Manufacturing,2012-2022,LiDAR for autonomous vehicles,$160M,Lost to Velodyne/Luminar and delays,LiDAR needs booming market,1,1,1,0,0,0,0,0,0,0,0,0,0,quanergy,2012,2022,160000000.0,False,,False
+Rethink Robotics,Manufacturing,2008-2018,Collaborative robots,$150M,Lost to Universal Robots/Fanuc,Robotics demands ROI,1,1,1,0,0,0,0,0,0,0,0,0,0,rethinkrobotics,2008,2018,150000000.0,False,,False
+Skully Helmets,Manufacturing,2013-2016,AR motorcycle helmets,$15M,Mismanagement and no product vs Nolan/Shoei,AR needs execution,1,1,1,0,0,0,0,0,1,0,0,0,1,skullyhelmets,2013,2016,15000000.0,False,,False
+Thalmic Labs,Manufacturing,2012-2020,Gesture-control armband,$135M,Lost to Leap Motion/Oculus and sold,Wearables need a killer app,1,0,1,0,1,0,0,0,0,0,0,0,0,thalmiclabs,2012,2020,135000000.0,False,,False
+Zume,Manufacturing,2015-2023,Robotic pizza systems,$375M,High costs vs Domino’s/Papa John’s,Food tech needs efficiency,1,1,1,0,0,0,0,0,0,0,0,0,0,zume,2015,2023,375000000.0,False,,False

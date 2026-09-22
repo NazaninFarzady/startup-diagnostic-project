@@ -1,0 +1,82 @@
+table,column,data_type,role,unit,description,missing_count,missing_pct,unique_values,pipeline_version
+crunchbase_feature_table.csv,permalink,object,Identifier,Not applicable,Unique Crunchbase company identifier.,0,0.0,66368,1.0
+crunchbase_feature_table.csv,name,object,Dimension or text,Not applicable,Company name from the source.,1,0.0,66102,1.0
+crunchbase_feature_table.csv,name_normalized,object,Dimension or text,Not applicable,Lowercase alphanumeric company name used only for match review.,1,0.0,65960,1.0
+crunchbase_feature_table.csv,category_list,object,Dimension or text,Not applicable,Pipe-separated Crunchbase category list.,0,0.0,27297,1.0
+crunchbase_feature_table.csv,primary_category,object,Dimension or text,Not applicable,First category in category_list.,0,0.0,729,1.0
+crunchbase_feature_table.csv,funding_total_usd,float64,Measure,USD,Reported total company funding in US dollars.,12785,19.26,18895,1.0
+crunchbase_feature_table.csv,funding_total_missing,bool,Quality flag,Not applicable,True when total funding was not reported.,0,0.0,2,1.0
+crunchbase_feature_table.csv,funding_rounds,int64,Measure,Not applicable,Reported number of funding rounds.,0,0.0,19,1.0
+crunchbase_feature_table.csv,status,object,Dimension or text,Not applicable,"Observed company status: operating, closed, acquired, or IPO.",0,0.0,4,1.0
+crunchbase_feature_table.csv,country_code,object,Dimension or text,Not applicable,Standardized uppercase country code or UNKNOWN.,0,0.0,138,1.0
+crunchbase_feature_table.csv,state_code,object,Dimension or text,Not applicable,State or regional code from the source.,0,0.0,312,1.0
+crunchbase_feature_table.csv,region,object,Dimension or text,Not applicable,Source region label.,0,0.0,1093,1.0
+crunchbase_feature_table.csv,city,object,Dimension or text,Not applicable,Source city label.,0,0.0,5112,1.0
+crunchbase_feature_table.csv,founded_at,object,Dimension or text,Not applicable,Parsed company founding date.,15225,22.94,3974,1.0
+crunchbase_feature_table.csv,first_funding_at,object,Dimension or text,Not applicable,Parsed first-funding date.,27,0.04,4814,1.0
+crunchbase_feature_table.csv,last_funding_at,object,Dimension or text,Not applicable,Parsed last-funding date.,0,0.0,4518,1.0
+crunchbase_feature_table.csv,date_after_reference,bool,Quality flag,Not applicable,True when a relevant date exceeds the dataset reference date.,0,0.0,2,1.0
+crunchbase_feature_table.csv,funding_before_founding,bool,Quality flag,Not applicable,True when first funding precedes founding.,0,0.0,2,1.0
+crunchbase_feature_table.csv,company_age_years,float64,Measure,Years,Years from founding to the 2015-12-31 reference date.,15230,22.95,488,1.0
+crunchbase_feature_table.csv,funding_delay_months,float64,Measure,Months,Months from founding to first funding.,19011,28.64,3360,1.0
+crunchbase_feature_table.csv,funding_span_months,float64,Measure,Months,Months from first to last funding.,29,0.04,1404,1.0
+crunchbase_feature_table.csv,funding_band,object,Dimension or text,Not applicable,Business-friendly funding range.,0,0.0,6,1.0
+crunchbase_feature_table.csv,founded_year,float64,Measure,Years,Year extracted from founded_at.,15225,22.94,176,1.0
+crunchbase_feature_table.csv,founded_cohort,object,Dimension or text,Not applicable,Five-year founding-period group.,0,0.0,6,1.0
+crunchbase_feature_table.csv,peer_cohort,object,Dimension or text,Not applicable,Dataset-specific peer-group key.,0,0.0,13007,1.0
+crunchbase_feature_table.csv,peer_cohort_size,int64,Measure,Not applicable,Number of records in the peer cohort.,0,0.0,164,1.0
+failure_feature_table.csv,failure_record_id,object,Identifier,Not applicable,Pipeline-generated unique failure-record identifier.,0,0.0,409,1.0
+failure_feature_table.csv,Name,object,Dimension or text,Not applicable,Company name from the failure source.,0,0.0,403,1.0
+failure_feature_table.csv,Sector,object,Dimension or text,Not applicable,Failure dataset industry sector.,0,0.0,6,1.0
+failure_feature_table.csv,Years of Operation,object,Dimension or text,Not applicable,Original operating-years text from failure source.,0,0.0,186,1.0
+failure_feature_table.csv,What They Did,object,Dimension or text,Not applicable,Source description of the failed startup's activity.,0,0.0,398,1.0
+failure_feature_table.csv,How Much They Raised,object,Dimension or text,Not applicable,Original funding text from the failure source.,0,0.0,215,1.0
+failure_feature_table.csv,Why They Failed,object,Dimension or text,Not applicable,Source failure explanation.,0,0.0,404,1.0
+failure_feature_table.csv,Takeaway,object,Dimension or text,Not applicable,Source post-mortem takeaway.,0,0.0,396,1.0
+failure_feature_table.csv,Giants,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Giants factor.,0,0.0,2,1.0
+failure_feature_table.csv,No Budget,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded No Budget factor.,0,0.0,2,1.0
+failure_feature_table.csv,Competition,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Competition factor.,0,0.0,2,1.0
+failure_feature_table.csv,Poor Market Fit,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Poor Market Fit factor.,0,0.0,2,1.0
+failure_feature_table.csv,Acquisition Stagnation,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Acquisition Stagnation factor.,0,0.0,2,1.0
+failure_feature_table.csv,Platform Dependency,float64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Platform Dependency factor.,26,6.36,2,1.0
+failure_feature_table.csv,Monetization Failure,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Monetization Failure factor.,0,0.0,2,1.0
+failure_feature_table.csv,Niche Limits,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Niche Limits factor.,0,0.0,2,1.0
+failure_feature_table.csv,Execution Flaws,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Execution Flaws factor.,0,0.0,2,1.0
+failure_feature_table.csv,Trend Shifts,int64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Trend Shifts factor.,0,0.0,2,1.0
+failure_feature_table.csv,Toxicity/Trust Issues,float64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Toxicity/Trust Issues factor.,26,6.36,2,1.0
+failure_feature_table.csv,Regulatory Pressure,float64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Regulatory Pressure factor.,26,6.36,2,1.0
+failure_feature_table.csv,Overhype,float64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded Overhype factor.,27,6.6,2,1.0
+failure_feature_table.csv,name_normalized,object,Dimension or text,Not applicable,Lowercase alphanumeric company name used only for match review.,0,0.0,403,1.0
+failure_feature_table.csv,start_year,int64,Measure,Years,First year parsed from Years of Operation.,0,0.0,26,1.0
+failure_feature_table.csv,end_year,int64,Measure,Years,Last year parsed from Years of Operation.,0,0.0,23,1.0
+failure_feature_table.csv,funding_raised_usd,float64,Measure,USD,Parsed failure-record funding amount in US dollars.,1,0.24,181,1.0
+failure_feature_table.csv,funding_needs_review,bool,Quality flag,Not applicable,True when failure-record funding text is unclear.,0,0.0,2,1.0
+failure_feature_table.csv,High Operational Costs,float64,Binary failure factor,"0, 1, or missing",Binary indicator for the recorded High Operational Costs factor.,383,93.64,2,1.0
+failure_feature_table.csv,duplicate_name,bool,Quality flag,Not applicable,True when a normalized name repeats inside the source table.,0,0.0,1,1.0
+failure_feature_table.csv,source_file,object,Dimension or text,Not applicable,Detailed failure source file.,0,0.0,6,1.0
+failure_feature_table.csv,name_appears_multiple_times,bool,Quality flag,Not applicable,True when normalized name repeats in the combined failure table.,0,0.0,2,1.0
+failure_feature_table.csv,failure_factor_count,int64,Measure,Not applicable,Number of recorded binary failure factors equal to 1.,0,0.0,6,1.0
+failure_feature_table.csv,risk_combination,object,Dimension or text,Not applicable,Exact combination of recorded failure factors.,0,0.0,132,1.0
+failure_feature_table.csv,operating_years,float64,Measure,Years,Approximate end year minus start year.,0,0.0,17,1.0
+failure_feature_table.csv,funding_band,object,Dimension or text,Not applicable,Business-friendly funding range.,0,0.0,6,1.0
+failure_feature_table.csv,peer_cohort,object,Dimension or text,Not applicable,Dataset-specific peer-group key.,0,0.0,28,1.0
+failure_feature_table.csv,peer_cohort_size,int64,Measure,Not applicable,Number of records in the peer cohort.,0,0.0,19,1.0
+startup_metrics_feature_table.csv,startup_id,object,Identifier,Not applicable,Unique synthetic startup identifier.,0,0.0,200,1.0
+startup_metrics_feature_table.csv,stage,object,Dimension or text,Not applicable,Synthetic startup funding or development stage.,0,0.0,3,1.0
+startup_metrics_feature_table.csv,category_group,object,Dimension or text,Not applicable,Broad synthetic startup category.,0,0.0,3,1.0
+startup_metrics_feature_table.csv,mrr_usd,float64,Measure,USD,Monthly recurring revenue in US dollars.,0,0.0,200,1.0
+startup_metrics_feature_table.csv,cac_usd,float64,Measure,USD,Customer acquisition cost in US dollars.,0,0.0,199,1.0
+startup_metrics_feature_table.csv,ltv_usd,float64,Measure,USD,Customer lifetime value in US dollars.,0,0.0,200,1.0
+startup_metrics_feature_table.csv,ltv_cac_ratio,float64,Measure,Not applicable,Supplied lifetime-value to acquisition-cost ratio.,0,0.0,167,1.0
+startup_metrics_feature_table.csv,monthly_burn_usd,float64,Measure,USD,Monthly cash burn in US dollars.,0,0.0,199,1.0
+startup_metrics_feature_table.csv,cash_in_bank_usd,float64,Measure,USD,Cash balance in US dollars.,0,0.0,200,1.0
+startup_metrics_feature_table.csv,runway_months,float64,Measure,Months,Supplied cash runway in months.,0,0.0,118,1.0
+startup_metrics_feature_table.csv,health_status,object,Dimension or text,Not applicable,Rule-based synthetic health category.,0,0.0,3,1.0
+startup_metrics_feature_table.csv,ltv_cac_ratio_calculated,float64,Measure,Not applicable,Recalculated LTV divided by CAC.,0,0.0,167,1.0
+startup_metrics_feature_table.csv,ltv_cac_valid,bool,Quality flag,Not applicable,True when supplied and recalculated LTV/CAC agree within tolerance.,0,0.0,1,1.0
+startup_metrics_feature_table.csv,runway_months_calculated,float64,Measure,Months,Recalculated cash divided by monthly burn.,0,0.0,118,1.0
+startup_metrics_feature_table.csv,runway_valid,bool,Quality flag,Not applicable,True when supplied and recalculated runway agree within tolerance.,0,0.0,1,1.0
+startup_metrics_feature_table.csv,analysis_eligible,bool,Quality flag,Not applicable,True when required synthetic metrics pass validation.,0,0.0,1,1.0
+startup_metrics_feature_table.csv,runway_band,object,Dimension or text,Not applicable,Practical cash-runway category.,0,0.0,5,1.0
+startup_metrics_feature_table.csv,peer_cohort,object,Dimension or text,Not applicable,Dataset-specific peer-group key.,0,0.0,9,1.0
+startup_metrics_feature_table.csv,peer_cohort_size,int64,Measure,Not applicable,Number of records in the peer cohort.,0,0.0,8,1.0

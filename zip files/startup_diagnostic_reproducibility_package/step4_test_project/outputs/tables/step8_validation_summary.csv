@@ -1,0 +1,4 @@
+Finding,Validation used,Main result,Conclusion
+Health-risk classification,"70/30 replication, bootstrap interval, threshold sensitivity","Development and holdout High Risk shares are similar, but the exact rate changes substantially with the thresholds.",Stable descriptive rule; predictive validity not tested.
+Failure archetype,70/30 sector-stratified replication and sector stability,The dominant competitive pair repeats; detailed combinations and two sector factors change.,Broad archetype is stable; detailed sector claims are tentative.
+Funding-outcome benchmark,"80/20 stratified holdout, balanced model, bootstrap intervals, cohort-size sensitivity","The positive funding-outcome association repeats, but holdout discrimination is modest.",Useful benchmark signal; not a standalone prediction or causal claim.

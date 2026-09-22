@@ -1,0 +1,7 @@
+Sector,Development top factor,Development top factor share (%),Holdout top factor,Holdout top factor share (%),Same top factor
+Accommodation and Food Services,High Operational Costs,50.0,High Operational Costs,62.5,True
+Finance and Insurance,Poor Market Fit,30.3,Acquisition Stagnation,35.7,False
+Health Care,Poor Market Fit,50.0,Poor Market Fit,38.9,True
+Information,Acquisition Stagnation,32.1,Acquisition Stagnation,40.4,True
+Manufacturing,No Budget,57.1,No Budget,44.4,True
+Retail Trade,Niche Limits,36.5,Execution Flaws,29.6,False

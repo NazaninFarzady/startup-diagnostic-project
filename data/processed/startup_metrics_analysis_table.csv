@@ -1,0 +1,201 @@
+startup_id,stage,category_group,mrr_usd,cac_usd,ltv_usd,ltv_cac_ratio,monthly_burn_usd,cash_in_bank_usd,runway_months,health_status,ltv_cac_ratio_calculated,ltv_cac_valid,runway_months_calculated,runway_valid,analysis_eligible
+STARTUP_001,Pre-Seed,Tech & Software,8039.02,282.0,728.04,2.58,37184.99,95012.84,2.6,High Risk,2.58,True,2.6,True,True
+STARTUP_002,Pre-Seed,Tech & Software,46151.82,373.23,1719.33,4.61,29311.28,269937.39,9.2,Moderate Risk,4.61,True,9.2,True,True
+STARTUP_003,Seed,Marketing & Media,20751.19,379.31,480.59,1.27,16702.03,13770.56,0.8,High Risk,1.27,True,0.8,True,True
+STARTUP_004,Pre-Seed,Marketing & Media,14694.14,278.56,799.21,2.87,23477.29,34797.47,1.5,High Risk,2.87,True,1.5,True,True
+STARTUP_005,Pre-Seed,Tech & Software,3544.37,536.58,454.85,0.85,17995.05,70287.01,3.9,High Risk,0.85,True,3.9,True,True
+STARTUP_006,Series A,Other,3543.94,397.38,1100.11,2.77,13937.6,17694.34,1.3,High Risk,2.77,True,1.3,True,True
+STARTUP_007,Series A,Tech & Software,1897.58,230.87,239.29,1.04,32409.42,62616.28,1.9,High Risk,1.04,True,1.9,True,True
+STARTUP_008,Series A,Marketing & Media,31168.46,415.66,539.95,1.3,40275.33,179082.05,4.4,High Risk,1.3,True,4.4,True,True
+STARTUP_009,Series A,Marketing & Media,14786.23,252.53,326.68,1.29,13811.46,132213.12,9.6,High Risk,1.29,True,9.6,True,True
+STARTUP_010,Pre-Seed,Other,19468.75,428.71,1511.92,3.53,29503.75,268874.8,9.1,Moderate Risk,3.53,True,9.1,True,True
+STARTUP_011,Pre-Seed,Marketing & Media,1311.99,465.86,1832.41,3.93,19794.86,247058.63,12.5,Healthy,3.93,True,12.5,True,True
+STARTUP_012,Seed,Other,53553.36,267.93,870.82,3.25,21103.0,109127.03,5.2,High Risk,3.25,True,5.2,True,True
+STARTUP_013,Seed,Tech & Software,27796.44,446.34,2160.78,4.84,20260.85,85232.8,4.2,High Risk,4.84,True,4.2,True,True
+STARTUP_014,Pre-Seed,Other,4580.31,391.28,929.07,2.37,18088.07,120110.8,6.6,Moderate Risk,2.37,True,6.6,True,True
+STARTUP_015,Seed,Tech & Software,4010.18,432.21,864.41,2.0,25388.17,181185.53,7.1,High Risk,2.0,True,7.1,True,True
+STARTUP_016,Pre-Seed,Other,4039.17,539.68,2400.56,4.45,18352.4,87738.46,4.8,High Risk,4.45,True,4.8,True,True
+STARTUP_017,Pre-Seed,Marketing & Media,6441.31,325.46,566.01,1.74,27163.65,191003.18,7.0,High Risk,1.74,True,7.0,True,True
+STARTUP_018,Seed,Other,12158.92,274.63,1330.71,4.85,24598.1,128729.38,5.2,High Risk,4.85,True,5.2,True,True
+STARTUP_019,Seed,Tech & Software,9483.06,261.05,222.17,0.85,23088.42,170093.68,7.4,High Risk,0.85,True,7.4,True,True
+STARTUP_020,Seed,Marketing & Media,6163.34,268.42,1308.14,4.87,17739.49,136476.69,7.7,Moderate Risk,4.87,True,7.7,True,True
+STARTUP_021,Pre-Seed,Marketing & Media,15195.56,342.29,335.88,0.98,20385.83,95395.07,4.7,High Risk,0.98,True,4.7,True,True
+STARTUP_022,Series A,Marketing & Media,3253.52,384.12,1744.96,4.54,31043.13,285051.46,9.2,Moderate Risk,4.54,True,9.2,True,True
+STARTUP_023,Pre-Seed,Tech & Software,6182.73,377.67,1139.18,3.02,29007.34,231445.68,8.0,Moderate Risk,3.02,True,8.0,True,True
+STARTUP_024,Pre-Seed,Tech & Software,7844.16,432.72,2150.81,4.97,17179.56,50632.82,2.9,High Risk,4.97,True,2.9,True,True
+STARTUP_025,Series A,Tech & Software,10134.02,351.3,389.92,1.11,25794.66,261855.71,10.2,High Risk,1.11,True,10.2,True,True
+STARTUP_026,Series A,Tech & Software,24069.04,495.35,1548.57,3.13,31011.1,151355.05,4.9,High Risk,3.13,True,4.9,True,True
+STARTUP_027,Series A,Other,4341.04,323.53,1575.96,4.87,11644.76,269420.15,23.1,Healthy,4.87,True,23.1,True,True
+STARTUP_028,Seed,Tech & Software,11830.44,622.02,1864.19,3.0,29346.88,241958.02,8.2,Moderate Risk,3.0,True,8.2,True,True
+STARTUP_029,Seed,Other,14462.57,412.57,1420.66,3.44,19699.01,133311.92,6.8,Moderate Risk,3.44,True,6.8,True,True
+STARTUP_030,Seed,Tech & Software,1713.46,264.28,983.7,3.72,29564.79,16516.1,0.6,High Risk,3.72,True,0.6,True,True
+STARTUP_031,Pre-Seed,Tech & Software,15030.0,242.91,658.06,2.71,18893.93,87916.43,4.7,High Risk,2.71,True,4.7,True,True
+STARTUP_032,Pre-Seed,Marketing & Media,3804.42,398.25,1368.28,3.44,10560.94,167073.92,15.8,Healthy,3.44,True,15.8,True,True
+STARTUP_033,Pre-Seed,Marketing & Media,2008.96,327.65,1066.22,3.25,11979.66,193708.68,16.2,Healthy,3.25,True,16.2,True,True
+STARTUP_034,Pre-Seed,Tech & Software,45605.32,421.4,1932.06,4.58,25384.68,84787.43,3.3,High Risk,4.58,True,3.3,True,True
+STARTUP_035,Seed,Marketing & Media,51559.46,397.32,393.7,0.99,27077.78,50413.26,1.9,High Risk,0.99,True,1.9,True,True
+STARTUP_036,Pre-Seed,Marketing & Media,25784.97,342.72,678.6,1.98,17765.47,252129.77,14.2,High Risk,1.98,True,14.2,True,True
+STARTUP_037,Pre-Seed,Tech & Software,6449.32,265.32,1271.34,4.79,30108.74,295476.63,9.8,Moderate Risk,4.79,True,9.8,True,True
+STARTUP_038,Pre-Seed,Other,2541.66,198.52,901.08,4.54,11707.84,162450.15,13.9,Healthy,4.54,True,13.9,True,True
+STARTUP_039,Seed,Other,18291.26,305.35,828.64,2.71,24471.36,59786.99,2.4,High Risk,2.71,True,2.4,True,True
+STARTUP_040,Pre-Seed,Marketing & Media,9701.36,435.64,1483.16,3.4,15311.87,88969.12,5.8,High Risk,3.4,True,5.8,True,True
+STARTUP_041,Series A,Tech & Software,2952.28,371.41,729.82,1.97,19785.31,15333.3,0.8,High Risk,1.96,True,0.8,True,True
+STARTUP_042,Pre-Seed,Marketing & Media,11253.21,225.43,358.45,1.59,25379.19,275146.65,10.8,High Risk,1.59,True,10.8,True,True
+STARTUP_043,Pre-Seed,Tech & Software,1524.91,367.32,1009.22,2.75,18116.69,44147.81,2.4,High Risk,2.75,True,2.4,True,True
+STARTUP_044,Seed,Tech & Software,37006.34,388.53,887.44,2.28,21923.56,177189.78,8.1,Moderate Risk,2.28,True,8.1,True,True
+STARTUP_045,Seed,Tech & Software,5491.87,261.61,850.6,3.25,33050.34,89476.01,2.7,High Risk,3.25,True,2.7,True,True
+STARTUP_046,Pre-Seed,Tech & Software,17293.84,365.37,411.59,1.13,20384.87,170711.62,8.4,High Risk,1.13,True,8.4,True,True
+STARTUP_047,Seed,Other,6603.2,355.82,1740.84,4.89,31685.54,198911.91,6.3,Moderate Risk,4.89,True,6.3,True,True
+STARTUP_048,Seed,Marketing & Media,12011.66,235.7,1164.86,4.94,15962.35,250625.12,15.7,Healthy,4.94,True,15.7,True,True
+STARTUP_049,Pre-Seed,Marketing & Media,12868.36,385.78,1439.83,3.73,29238.43,69862.17,2.4,High Risk,3.73,True,2.4,True,True
+STARTUP_050,Series A,Tech & Software,4065.83,406.08,1239.19,3.05,36532.55,13188.79,0.4,High Risk,3.05,True,0.4,True,True
+STARTUP_051,Seed,Tech & Software,53392.11,458.31,962.45,2.1,5226.84,49696.83,9.5,Moderate Risk,2.1,True,9.5,True,True
+STARTUP_052,Seed,Tech & Software,23383.68,455.38,1920.77,4.22,18624.84,271005.41,14.6,Healthy,4.22,True,14.6,True,True
+STARTUP_053,Series A,Other,43076.42,212.23,780.14,3.68,29616.58,263428.12,8.9,Moderate Risk,3.68,True,8.9,True,True
+STARTUP_054,Series A,Tech & Software,34782.28,256.22,379.97,1.48,23375.64,183249.8,7.8,High Risk,1.48,True,7.8,True,True
+STARTUP_055,Seed,Other,14665.82,401.5,1857.31,4.63,27969.17,184149.89,6.6,Moderate Risk,4.63,True,6.6,True,True
+STARTUP_056,Seed,Marketing & Media,39241.53,401.38,1707.73,4.25,20168.12,202860.64,10.1,Moderate Risk,4.25,True,10.1,True,True
+STARTUP_057,Seed,Tech & Software,2389.83,401.5,1922.87,4.79,25692.72,60857.67,2.4,High Risk,4.79,True,2.4,True,True
+STARTUP_058,Seed,Marketing & Media,4272.02,735.27,2829.35,3.85,23754.58,275179.46,11.6,Moderate Risk,3.85,True,11.6,True,True
+STARTUP_059,Seed,Tech & Software,1694.23,407.09,1374.47,3.38,34342.26,131443.45,3.8,High Risk,3.38,True,3.8,True,True
+STARTUP_060,Seed,Other,6902.98,463.56,1185.14,2.56,27035.37,121110.17,4.5,High Risk,2.56,True,4.5,True,True
+STARTUP_061,Pre-Seed,Other,8381.95,445.4,2101.16,4.72,27700.82,160486.13,5.8,High Risk,4.72,True,5.8,True,True
+STARTUP_062,Series A,Tech & Software,5748.41,415.14,1842.17,4.44,21704.98,23620.13,1.1,High Risk,4.44,True,1.1,True,True
+STARTUP_063,Series A,Tech & Software,27468.37,318.47,315.26,0.99,21099.15,58222.18,2.8,High Risk,0.99,True,2.8,True,True
+STARTUP_064,Pre-Seed,Marketing & Media,7618.4,425.9,387.88,0.91,21539.53,224029.75,10.4,High Risk,0.91,True,10.4,True,True
+STARTUP_065,Seed,Other,5947.04,272.72,649.38,2.38,28155.62,34011.61,1.2,High Risk,2.38,True,1.2,True,True
+STARTUP_066,Pre-Seed,Tech & Software,12736.11,326.32,1371.95,4.2,21632.12,184914.11,8.5,Moderate Risk,4.2,True,8.5,True,True
+STARTUP_067,Pre-Seed,Marketing & Media,3278.47,301.46,1491.21,4.95,27318.2,81151.24,3.0,High Risk,4.95,True,3.0,True,True
+STARTUP_068,Seed,Marketing & Media,25307.25,358.19,512.84,1.43,41603.21,122895.73,3.0,High Risk,1.43,True,3.0,True,True
+STARTUP_069,Pre-Seed,Marketing & Media,2162.14,581.47,1916.13,3.3,31969.0,93721.18,2.9,High Risk,3.3,True,2.9,True,True
+STARTUP_070,Seed,Tech & Software,66012.2,163.27,391.81,2.4,22391.81,113145.09,5.1,High Risk,2.4,True,5.1,True,True
+STARTUP_071,Seed,Marketing & Media,23192.26,418.63,2040.23,4.87,34609.71,218523.31,6.3,Moderate Risk,4.87,True,6.3,True,True
+STARTUP_072,Seed,Other,4323.09,188.73,818.5,4.34,21735.4,96165.3,4.4,High Risk,4.34,True,4.4,True,True
+STARTUP_073,Pre-Seed,Tech & Software,1083.06,302.81,1308.42,4.32,8695.0,174257.35,20.0,Healthy,4.32,True,20.0,True,True
+STARTUP_074,Pre-Seed,Tech & Software,26348.45,458.9,1270.46,2.77,16935.31,148054.62,8.7,Moderate Risk,2.77,True,8.7,True,True
+STARTUP_075,Seed,Other,19406.44,356.43,906.13,2.54,10033.66,202464.64,20.2,Moderate Risk,2.54,True,20.2,True,True
+STARTUP_076,Series A,Tech & Software,20584.94,242.23,471.93,1.95,22187.89,281680.62,12.7,High Risk,1.95,True,12.7,True,True
+STARTUP_077,Seed,Other,23128.22,278.47,288.71,1.04,25147.35,222445.91,8.8,High Risk,1.04,True,8.8,True,True
+STARTUP_078,Pre-Seed,Tech & Software,2153.94,417.96,1852.33,4.43,38411.5,72332.71,1.9,High Risk,4.43,True,1.9,True,True
+STARTUP_079,Seed,Tech & Software,7658.39,276.96,1167.17,4.21,27615.42,19043.11,0.7,High Risk,4.21,True,0.7,True,True
+STARTUP_080,Seed,Other,2847.25,371.65,1857.79,5.0,23247.2,86056.57,3.7,High Risk,5.0,True,3.7,True,True
+STARTUP_081,Seed,Tech & Software,30827.94,354.56,1767.78,4.99,31635.24,182572.6,5.8,High Risk,4.99,True,5.8,True,True
+STARTUP_082,Pre-Seed,Marketing & Media,15644.52,284.84,892.35,3.13,7310.92,24913.49,3.4,High Risk,3.13,True,3.4,True,True
+STARTUP_083,Seed,Tech & Software,7027.28,564.39,2274.37,4.03,26884.92,153946.21,5.7,High Risk,4.03,True,5.7,True,True
+STARTUP_084,Seed,Marketing & Media,1985.02,413.39,1971.06,4.77,31166.92,183084.43,5.9,High Risk,4.77,True,5.9,True,True
+STARTUP_085,Series A,Tech & Software,6587.33,147.49,644.29,4.37,13171.31,106930.73,8.1,Moderate Risk,4.37,True,8.1,True,True
+STARTUP_086,Pre-Seed,Tech & Software,6899.71,368.65,677.89,1.84,34150.03,233564.54,6.8,High Risk,1.84,True,6.8,True,True
+STARTUP_087,Seed,Other,20618.14,283.82,764.13,2.69,27707.97,40913.49,1.5,High Risk,2.69,True,1.5,True,True
+STARTUP_088,Series A,Tech & Software,16223.34,435.24,584.3,1.34,21677.7,31789.96,1.5,High Risk,1.34,True,1.5,True,True
+STARTUP_089,Pre-Seed,Marketing & Media,33733.78,270.75,1301.49,4.81,30062.25,221174.74,7.4,Moderate Risk,4.81,True,7.4,True,True
+STARTUP_090,Series A,Tech & Software,10585.99,338.53,1132.69,3.35,43165.54,153692.48,3.6,High Risk,3.35,True,3.6,True,True
+STARTUP_091,Seed,Marketing & Media,2910.59,400.5,705.0,1.76,26454.93,209636.69,7.9,High Risk,1.76,True,7.9,True,True
+STARTUP_092,Pre-Seed,Tech & Software,19736.9,436.58,1580.9,3.62,26985.76,136099.93,5.0,High Risk,3.62,True,5.0,True,True
+STARTUP_093,Pre-Seed,Other,22455.89,229.97,781.01,3.4,21325.11,81456.59,3.8,High Risk,3.4,True,3.8,True,True
+STARTUP_094,Seed,Tech & Software,13358.31,316.55,729.42,2.3,18201.25,247539.67,13.6,Moderate Risk,2.3,True,13.6,True,True
+STARTUP_095,Pre-Seed,Tech & Software,23108.35,302.51,386.28,1.28,31642.69,241830.6,7.6,High Risk,1.28,True,7.6,True,True
+STARTUP_096,Seed,Tech & Software,11212.22,284.67,1030.67,3.62,18151.33,211461.98,11.6,Moderate Risk,3.62,True,11.6,True,True
+STARTUP_097,Pre-Seed,Tech & Software,12095.18,526.55,1571.89,2.99,25572.53,88922.09,3.5,High Risk,2.99,True,3.5,True,True
+STARTUP_098,Seed,Marketing & Media,9367.21,390.5,1579.07,4.04,21178.74,181166.89,8.6,Moderate Risk,4.04,True,8.6,True,True
+STARTUP_099,Pre-Seed,Tech & Software,1386.22,223.91,668.31,2.98,28831.84,114682.43,4.0,High Risk,2.98,True,4.0,True,True
+STARTUP_100,Series A,Other,2712.51,441.79,1934.65,4.38,27669.3,36558.8,1.3,High Risk,4.38,True,1.3,True,True
+STARTUP_101,Series A,Tech & Software,1479.01,562.22,1752.99,3.12,33300.32,276020.94,8.3,Moderate Risk,3.12,True,8.3,True,True
+STARTUP_102,Series A,Tech & Software,16175.94,453.25,1430.42,3.16,20919.87,49677.4,2.4,High Risk,3.16,True,2.4,True,True
+STARTUP_103,Seed,Marketing & Media,6660.95,198.06,887.71,4.48,22841.0,285568.83,12.5,Healthy,4.48,True,12.5,True,True
+STARTUP_104,Pre-Seed,Marketing & Media,11656.56,301.58,752.32,2.49,17169.89,139341.67,8.1,Moderate Risk,2.49,True,8.1,True,True
+STARTUP_105,Seed,Tech & Software,36718.98,476.69,649.67,1.36,21445.65,63688.55,3.0,High Risk,1.36,True,3.0,True,True
+STARTUP_106,Pre-Seed,Tech & Software,5301.08,279.23,257.14,0.92,28018.4,167151.27,6.0,High Risk,0.92,True,6.0,True,True
+STARTUP_107,Pre-Seed,Tech & Software,8924.23,394.38,1566.32,3.97,31055.91,263154.29,8.5,Moderate Risk,3.97,True,8.5,True,True
+STARTUP_108,Pre-Seed,Marketing & Media,22131.24,427.46,1455.64,3.41,17622.68,222345.22,12.6,Healthy,3.41,True,12.6,True,True
+STARTUP_109,Pre-Seed,Marketing & Media,4897.08,257.31,966.74,3.76,31956.85,243902.73,7.6,Moderate Risk,3.76,True,7.6,True,True
+STARTUP_110,Seed,Tech & Software,2201.56,344.05,582.97,1.69,35845.1,201047.18,5.6,High Risk,1.69,True,5.6,True,True
+STARTUP_111,Seed,Other,6132.1,50.0,68.64,1.37,28307.48,210760.2,7.4,High Risk,1.37,True,7.4,True,True
+STARTUP_112,Pre-Seed,Other,3637.13,247.56,213.17,0.86,40014.37,256266.74,6.4,High Risk,0.86,True,6.4,True,True
+STARTUP_113,Pre-Seed,Marketing & Media,40824.25,324.74,737.97,2.27,18809.69,82403.72,4.4,High Risk,2.27,True,4.4,True,True
+STARTUP_114,Series A,Other,25763.31,225.22,738.2,3.28,15042.76,151933.24,10.1,Moderate Risk,3.28,True,10.1,True,True
+STARTUP_115,Pre-Seed,Tech & Software,16052.41,513.24,1256.12,2.45,10770.24,74150.74,6.9,Moderate Risk,2.45,True,6.9,True,True
+STARTUP_116,Pre-Seed,Tech & Software,31772.8,206.99,545.9,2.64,36968.35,296423.72,8.0,Moderate Risk,2.64,True,8.0,True,True
+STARTUP_117,Pre-Seed,Tech & Software,25419.53,306.0,1406.8,4.6,30234.93,283777.21,9.4,Moderate Risk,4.6,True,9.4,True,True
+STARTUP_118,Seed,Tech & Software,4097.43,363.07,821.52,2.26,24555.32,21433.78,0.9,High Risk,2.26,True,0.9,True,True
+STARTUP_119,Seed,Marketing & Media,34462.2,494.13,1462.0,2.96,27239.75,214616.8,7.9,Moderate Risk,2.96,True,7.9,True,True
+STARTUP_120,Pre-Seed,Other,12626.5,206.41,844.51,4.09,15996.09,278322.01,17.4,Healthy,4.09,True,17.4,True,True
+STARTUP_121,Pre-Seed,Tech & Software,25710.22,466.32,1149.69,2.47,44566.02,62366.85,1.4,High Risk,2.47,True,1.4,True,True
+STARTUP_122,Seed,Tech & Software,34963.64,351.02,1197.96,3.41,26033.77,174704.12,6.7,Moderate Risk,3.41,True,6.7,True,True
+STARTUP_123,Seed,Tech & Software,6740.96,251.85,1113.66,4.42,25875.16,275491.61,10.6,Moderate Risk,4.42,True,10.6,True,True
+STARTUP_124,Pre-Seed,Other,2748.88,396.21,1897.05,4.79,30806.13,19844.33,0.6,High Risk,4.79,True,0.6,True,True
+STARTUP_125,Series A,Tech & Software,4880.3,369.91,524.42,1.42,28848.07,212251.88,7.4,High Risk,1.42,True,7.4,True,True
+STARTUP_126,Pre-Seed,Marketing & Media,9355.87,289.98,1360.48,4.69,26791.07,96231.21,3.6,High Risk,4.69,True,3.6,True,True
+STARTUP_127,Pre-Seed,Tech & Software,26557.45,356.98,1023.42,2.87,18676.2,278074.9,14.9,Moderate Risk,2.87,True,14.9,True,True
+STARTUP_128,Series A,Tech & Software,30570.17,311.47,587.0,1.88,28771.75,291606.89,10.1,High Risk,1.88,True,10.1,True,True
+STARTUP_129,Pre-Seed,Other,1104.65,361.35,985.9,2.73,40056.2,283837.28,7.1,Moderate Risk,2.73,True,7.1,True,True
+STARTUP_130,Seed,Other,11723.14,416.21,2046.16,4.92,35763.36,147522.12,4.1,High Risk,4.92,True,4.1,True,True
+STARTUP_131,Pre-Seed,Tech & Software,9104.1,508.6,1459.18,2.87,37745.49,259992.37,6.9,Moderate Risk,2.87,True,6.9,True,True
+STARTUP_132,Pre-Seed,Other,4767.51,226.22,493.33,2.18,20910.27,254919.33,12.2,Moderate Risk,2.18,True,12.2,True,True
+STARTUP_133,Series A,Marketing & Media,2915.21,563.3,1949.19,3.46,17083.16,102539.14,6.0,Moderate Risk,3.46,True,6.0,True,True
+STARTUP_134,Pre-Seed,Other,7178.63,154.79,279.96,1.81,23993.7,250385.49,10.4,High Risk,1.81,True,10.4,True,True
+STARTUP_135,Series A,Tech & Software,43946.82,334.82,374.54,1.12,25445.8,20732.21,0.8,High Risk,1.12,True,0.8,True,True
+STARTUP_136,Pre-Seed,Marketing & Media,6855.76,408.83,548.36,1.34,33753.53,182918.26,5.4,High Risk,1.34,True,5.4,True,True
+STARTUP_137,Pre-Seed,Tech & Software,11971.79,378.1,505.82,1.34,11460.28,76702.56,6.7,High Risk,1.34,True,6.7,True,True
+STARTUP_138,Pre-Seed,Marketing & Media,19211.3,287.73,413.75,1.44,37236.4,44964.4,1.2,High Risk,1.44,True,1.2,True,True
+STARTUP_139,Seed,Tech & Software,7779.62,329.19,455.29,1.38,23735.94,32316.43,1.4,High Risk,1.38,True,1.4,True,True
+STARTUP_140,Pre-Seed,Tech & Software,54516.97,300.7,1049.95,3.49,21584.95,211923.75,9.8,Moderate Risk,3.49,True,9.8,True,True
+STARTUP_141,Series A,Tech & Software,50230.15,291.06,455.19,1.56,16903.16,108563.74,6.4,High Risk,1.56,True,6.4,True,True
+STARTUP_142,Pre-Seed,Marketing & Media,5350.92,434.96,979.44,2.25,11761.15,220182.36,18.7,Moderate Risk,2.25,True,18.7,True,True
+STARTUP_143,Series A,Tech & Software,11314.89,385.7,1761.31,4.57,31585.36,28953.34,0.9,High Risk,4.57,True,0.9,True,True
+STARTUP_144,Pre-Seed,Marketing & Media,6368.96,280.71,783.36,2.79,25586.54,101434.2,4.0,High Risk,2.79,True,4.0,True,True
+STARTUP_145,Series A,Other,6028.75,439.96,1585.5,3.6,14680.31,166452.47,11.3,Moderate Risk,3.6,True,11.3,True,True
+STARTUP_146,Seed,Tech & Software,1563.77,380.73,580.13,1.52,14639.37,239309.72,16.3,High Risk,1.52,True,16.3,True,True
+STARTUP_147,Seed,Marketing & Media,15107.38,431.29,693.34,1.61,22313.72,102438.23,4.6,High Risk,1.61,True,4.6,True,True
+STARTUP_148,Seed,Tech & Software,11477.79,412.96,401.25,0.97,38352.17,191508.5,5.0,High Risk,0.97,True,5.0,True,True
+STARTUP_149,Seed,Other,1792.77,267.1,403.2,1.51,22923.27,266933.55,11.6,High Risk,1.51,True,11.6,True,True
+STARTUP_150,Seed,Tech & Software,5899.39,293.98,579.17,1.97,12974.86,188600.32,14.5,High Risk,1.97,True,14.5,True,True
+STARTUP_151,Pre-Seed,Marketing & Media,36832.91,424.73,655.55,1.54,23034.06,77558.25,3.4,High Risk,1.54,True,3.4,True,True
+STARTUP_152,Pre-Seed,Other,5107.91,411.04,481.96,1.17,22818.21,17076.23,0.7,High Risk,1.17,True,0.7,True,True
+STARTUP_153,Series A,Other,3347.96,347.91,454.6,1.31,5000.0,262328.67,52.5,High Risk,1.31,True,52.5,True,True
+STARTUP_154,Seed,Marketing & Media,11084.08,361.73,989.44,2.74,24565.64,16168.13,0.7,High Risk,2.74,True,0.7,True,True
+STARTUP_155,Seed,Tech & Software,64660.55,477.77,796.25,1.67,23152.52,263663.49,11.4,High Risk,1.67,True,11.4,True,True
+STARTUP_156,Pre-Seed,Marketing & Media,5157.17,290.84,677.64,2.33,30569.65,163391.77,5.3,High Risk,2.33,True,5.3,True,True
+STARTUP_157,Pre-Seed,Other,17727.33,404.71,1179.47,2.91,39791.65,282329.63,7.1,Moderate Risk,2.91,True,7.1,True,True
+STARTUP_158,Pre-Seed,Marketing & Media,22508.31,329.78,1220.08,3.7,34012.52,241647.14,7.1,Moderate Risk,3.7,True,7.1,True,True
+STARTUP_159,Seed,Tech & Software,5070.0,328.23,316.78,0.97,22848.89,299400.89,13.1,High Risk,0.97,True,13.1,True,True
+STARTUP_160,Pre-Seed,Other,20541.23,459.88,1911.95,4.16,16147.79,111706.43,6.9,Moderate Risk,4.16,True,6.9,True,True
+STARTUP_161,Pre-Seed,Marketing & Media,7877.84,432.54,1486.72,3.44,45586.88,232484.6,5.1,High Risk,3.44,True,5.1,True,True
+STARTUP_162,Pre-Seed,Marketing & Media,16007.56,431.35,493.2,1.14,25473.75,126559.96,5.0,High Risk,1.14,True,5.0,True,True
+STARTUP_163,Pre-Seed,Tech & Software,16057.57,480.55,2147.58,4.47,25111.43,149163.93,5.9,High Risk,4.47,True,5.9,True,True
+STARTUP_164,Seed,Marketing & Media,12510.78,352.1,1643.49,4.67,24807.0,191976.58,7.7,Moderate Risk,4.67,True,7.7,True,True
+STARTUP_165,Pre-Seed,Tech & Software,2419.44,418.2,441.83,1.06,26584.68,263366.36,9.9,High Risk,1.06,True,9.9,True,True
+STARTUP_166,Seed,Marketing & Media,28054.67,318.97,626.11,1.96,23845.12,295384.21,12.4,High Risk,1.96,True,12.4,True,True
+STARTUP_167,Pre-Seed,Tech & Software,6802.15,382.42,1600.81,4.19,20410.7,232799.29,11.4,Moderate Risk,4.19,True,11.4,True,True
+STARTUP_168,Pre-Seed,Marketing & Media,4096.48,336.99,1328.63,3.94,20625.13,131152.37,6.4,Moderate Risk,3.94,True,6.4,True,True
+STARTUP_169,Pre-Seed,Other,1624.45,359.7,566.52,1.57,24737.97,132193.53,5.3,High Risk,1.57,True,5.3,True,True
+STARTUP_170,Pre-Seed,Tech & Software,14406.68,409.52,687.69,1.68,20652.6,223898.87,10.8,High Risk,1.68,True,10.8,True,True
+STARTUP_171,Pre-Seed,Other,17977.78,268.18,631.82,2.36,19297.23,79245.37,4.1,High Risk,2.36,True,4.1,True,True
+STARTUP_172,Pre-Seed,Tech & Software,1250.9,559.24,1585.44,2.83,25851.44,42037.49,1.6,High Risk,2.83,True,1.6,True,True
+STARTUP_173,Seed,Other,11764.46,249.4,847.12,3.4,22960.18,112840.43,4.9,High Risk,3.4,True,4.9,True,True
+STARTUP_174,Pre-Seed,Marketing & Media,4852.36,228.58,537.04,2.35,37031.94,93299.31,2.5,High Risk,2.35,True,2.5,True,True
+STARTUP_175,Seed,Marketing & Media,16541.87,465.81,1277.55,2.74,5000.0,95929.35,19.2,Moderate Risk,2.74,True,19.2,True,True
+STARTUP_176,Series A,Marketing & Media,3874.06,429.17,1690.65,3.94,33732.05,77746.25,2.3,High Risk,3.94,True,2.3,True,True
+STARTUP_177,Seed,Other,18613.19,412.41,393.47,0.95,34968.68,22207.02,0.6,High Risk,0.95,True,0.6,True,True
+STARTUP_178,Pre-Seed,Tech & Software,8334.38,412.83,767.97,1.86,8412.88,15183.44,1.8,High Risk,1.86,True,1.8,True,True
+STARTUP_179,Pre-Seed,Tech & Software,42405.16,348.78,1323.97,3.8,22258.5,296439.49,13.3,Healthy,3.8,True,13.3,True,True
+STARTUP_180,Pre-Seed,Marketing & Media,3219.17,260.27,1186.82,4.56,22028.47,134054.21,6.1,Moderate Risk,4.56,True,6.1,True,True
+STARTUP_181,Pre-Seed,Other,7256.99,357.58,1054.52,2.95,13739.91,121454.73,8.8,Moderate Risk,2.95,True,8.8,True,True
+STARTUP_182,Series A,Marketing & Media,2806.66,282.28,856.7,3.03,18777.47,207097.71,11.0,Moderate Risk,3.03,True,11.0,True,True
+STARTUP_183,Pre-Seed,Marketing & Media,39792.86,447.51,559.44,1.25,16115.39,73293.63,4.5,High Risk,1.25,True,4.5,True,True
+STARTUP_184,Pre-Seed,Tech & Software,32475.01,335.29,898.3,2.68,39018.16,285488.74,7.3,Moderate Risk,2.68,True,7.3,True,True
+STARTUP_185,Seed,Other,5474.91,267.45,812.24,3.04,32485.43,238040.05,7.3,Moderate Risk,3.04,True,7.3,True,True
+STARTUP_186,Seed,Tech & Software,17181.44,317.86,577.99,1.82,35172.44,35929.19,1.0,High Risk,1.82,True,1.0,True,True
+STARTUP_187,Seed,Marketing & Media,26492.26,391.29,755.52,1.93,30773.38,131098.42,4.3,High Risk,1.93,True,4.3,True,True
+STARTUP_188,Pre-Seed,Tech & Software,13151.99,293.63,700.18,2.38,15967.59,264944.31,16.6,Moderate Risk,2.38,True,16.6,True,True
+STARTUP_189,Pre-Seed,Tech & Software,12314.19,267.78,236.8,0.88,20803.84,283972.29,13.6,High Risk,0.88,True,13.6,True,True
+STARTUP_190,Seed,Tech & Software,5153.16,374.37,805.92,2.15,28915.0,145546.44,5.0,High Risk,2.15,True,5.0,True,True
+STARTUP_191,Pre-Seed,Tech & Software,2465.89,374.5,632.18,1.69,15222.98,187889.3,12.3,High Risk,1.69,True,12.3,True,True
+STARTUP_192,Pre-Seed,Marketing & Media,35126.85,299.31,651.14,2.18,30703.99,58439.84,1.9,High Risk,2.18,True,1.9,True,True
+STARTUP_193,Pre-Seed,Tech & Software,35601.62,302.9,394.67,1.3,23077.4,297438.9,12.9,High Risk,1.3,True,12.9,True,True
+STARTUP_194,Pre-Seed,Tech & Software,16040.05,373.2,1694.43,4.54,22001.43,77184.79,3.5,High Risk,4.54,True,3.5,True,True
+STARTUP_195,Pre-Seed,Tech & Software,7210.7,205.19,675.71,3.29,30687.68,283392.21,9.2,Moderate Risk,3.29,True,9.2,True,True
+STARTUP_196,Pre-Seed,Tech & Software,7443.51,209.25,764.24,3.65,28554.11,198397.53,6.9,Moderate Risk,3.65,True,6.9,True,True
+STARTUP_197,Seed,Tech & Software,20416.98,278.16,1144.48,4.11,22112.27,186243.67,8.4,Moderate Risk,4.11,True,8.4,True,True
+STARTUP_198,Seed,Tech & Software,35111.46,328.66,950.95,2.89,34274.64,158679.67,4.6,High Risk,2.89,True,4.6,True,True
+STARTUP_199,Seed,Marketing & Media,33716.99,381.09,444.0,1.17,16351.49,76894.25,4.7,High Risk,1.17,True,4.7,True,True
+STARTUP_200,Pre-Seed,Marketing & Media,23703.43,497.54,1520.39,3.06,29927.48,61193.13,2.0,High Risk,3.06,True,2.0,True,True

@@ -1,0 +1,146 @@
+file,column,data_type,missing_count,missing_percent,unique_values
+big_startup_secsees_dataset.csv,permalink,str,0,0.0,66368
+big_startup_secsees_dataset.csv,name,str,1,0.0,66102
+big_startup_secsees_dataset.csv,homepage_url,str,5058,7.62,61191
+big_startup_secsees_dataset.csv,category_list,str,3148,4.74,27296
+big_startup_secsees_dataset.csv,funding_total_usd,str,0,0.0,18896
+big_startup_secsees_dataset.csv,status,str,0,0.0,4
+big_startup_secsees_dataset.csv,country_code,str,6958,10.48,137
+big_startup_secsees_dataset.csv,state_code,str,8547,12.88,311
+big_startup_secsees_dataset.csv,region,str,8030,12.1,1092
+big_startup_secsees_dataset.csv,city,str,8028,12.1,5111
+big_startup_secsees_dataset.csv,funding_rounds,int64,0,0.0,19
+big_startup_secsees_dataset.csv,founded_at,str,15221,22.93,3978
+big_startup_secsees_dataset.csv,first_funding_at,str,24,0.04,4817
+big_startup_secsees_dataset.csv,last_funding_at,str,0,0.0,4518
+Startup Failure (Finance and Insurance).csv,Name,str,0,0.0,47
+Startup Failure (Finance and Insurance).csv,Sector,str,0,0.0,1
+Startup Failure (Finance and Insurance).csv,Years of Operation,str,0,0.0,40
+Startup Failure (Finance and Insurance).csv,What They Did,str,0,0.0,45
+Startup Failure (Finance and Insurance).csv,How Much They Raised,str,0,0.0,39
+Startup Failure (Finance and Insurance).csv,Why They Failed,str,0,0.0,46
+Startup Failure (Finance and Insurance).csv,Takeaway,str,0,0.0,46
+Startup Failure (Finance and Insurance).csv,Giants,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,No Budget,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Competition,int64,0,0.0,1
+Startup Failure (Finance and Insurance).csv,Poor Market Fit,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Acquisition Stagnation,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Platform Dependency,int64,0,0.0,1
+Startup Failure (Finance and Insurance).csv,Monetization Failure,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Niche Limits,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Execution Flaws,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Trend Shifts,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Toxicity/Trust Issues,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Regulatory Pressure,int64,0,0.0,2
+Startup Failure (Finance and Insurance).csv,Overhype,float64,1,2.13,2
+Startup Failure (Food and services).csv,Name,str,0,0.0,26
+Startup Failure (Food and services).csv,Sector,str,0,0.0,1
+Startup Failure (Food and services).csv,Years of Operation,str,0,0.0,18
+Startup Failure (Food and services).csv,What They Did,str,0,0.0,25
+Startup Failure (Food and services).csv,How Much They Raised,str,0,0.0,21
+Startup Failure (Food and services).csv,Why They Failed,str,0,0.0,25
+Startup Failure (Food and services).csv,Takeaway,str,0,0.0,25
+Startup Failure (Food and services).csv,Giants,int64,0,0.0,2
+Startup Failure (Food and services).csv,No Budget,int64,0,0.0,2
+Startup Failure (Food and services).csv,Competition,int64,0,0.0,2
+Startup Failure (Food and services).csv,Poor Market Fit,int64,0,0.0,2
+Startup Failure (Food and services).csv,Acquisition Stagnation,int64,0,0.0,2
+Startup Failure (Food and services).csv,High Operational Costs,int64,0,0.0,2
+Startup Failure (Food and services).csv,Monetization Failure,int64,0,0.0,2
+Startup Failure (Food and services).csv,Niche Limits,int64,0,0.0,2
+Startup Failure (Food and services).csv,Execution Flaws,int64,0,0.0,2
+Startup Failure (Food and services).csv,Trend Shifts,int64,0,0.0,2
+Startup Failure (Health Care).csv,Name,str,0,0.0,60
+Startup Failure (Health Care).csv,Sector,str,0,0.0,1
+Startup Failure (Health Care).csv,Years of Operation,str,0,0.0,40
+Startup Failure (Health Care).csv,What They Did,str,0,0.0,59
+Startup Failure (Health Care).csv,How Much They Raised,str,0,0.0,53
+Startup Failure (Health Care).csv,Why They Failed,str,0,0.0,60
+Startup Failure (Health Care).csv,Takeaway,str,0,0.0,59
+Startup Failure (Health Care).csv,Giants,int64,0,0.0,2
+Startup Failure (Health Care).csv,No Budget,int64,0,0.0,2
+Startup Failure (Health Care).csv,Competition,int64,0,0.0,2
+Startup Failure (Health Care).csv,Poor Market Fit,int64,0,0.0,2
+Startup Failure (Health Care).csv,Acquisition Stagnation,int64,0,0.0,2
+Startup Failure (Health Care).csv,Platform Dependency,int64,0,0.0,1
+Startup Failure (Health Care).csv,Monetization Failure,int64,0,0.0,2
+Startup Failure (Health Care).csv,Niche Limits,int64,0,0.0,2
+Startup Failure (Health Care).csv,Execution Flaws,int64,0,0.0,2
+Startup Failure (Health Care).csv,Trend Shifts,int64,0,0.0,2
+Startup Failure (Health Care).csv,Toxicity/Trust Issues,int64,0,0.0,2
+Startup Failure (Health Care).csv,Regulatory Pressure,int64,0,0.0,2
+Startup Failure (Health Care).csv,Overhype,int64,0,0.0,2
+Startup Failure (Manufactures).csv,Name,str,0,0.0,30
+Startup Failure (Manufactures).csv,Sector,str,0,0.0,1
+Startup Failure (Manufactures).csv,Years of Operation,str,0,0.0,24
+Startup Failure (Manufactures).csv,What They Did,str,0,0.0,30
+Startup Failure (Manufactures).csv,How Much They Raised,str,0,0.0,25
+Startup Failure (Manufactures).csv,Why They Failed,str,0,0.0,30
+Startup Failure (Manufactures).csv,Takeaway,str,0,0.0,30
+Startup Failure (Manufactures).csv,Giants,int64,0,0.0,1
+Startup Failure (Manufactures).csv,No Budget,int64,0,0.0,2
+Startup Failure (Manufactures).csv,Competition,int64,0,0.0,1
+Startup Failure (Manufactures).csv,Poor Market Fit,int64,0,0.0,2
+Startup Failure (Manufactures).csv,Acquisition Stagnation,int64,0,0.0,2
+Startup Failure (Manufactures).csv,Platform Dependency,int64,0,0.0,2
+Startup Failure (Manufactures).csv,Monetization Failure,int64,0,0.0,1
+Startup Failure (Manufactures).csv,Niche Limits,int64,0,0.0,2
+Startup Failure (Manufactures).csv,Execution Flaws,int64,0,0.0,2
+Startup Failure (Manufactures).csv,Trend Shifts,int64,0,0.0,2
+Startup Failure (Manufactures).csv,Toxicity/Trust Issues,int64,0,0.0,1
+Startup Failure (Manufactures).csv,Regulatory Pressure,int64,0,0.0,1
+Startup Failure (Manufactures).csv,Overhype,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Name,str,0,0.0,90
+Startup Failure (Retail Trade).csv,Sector,str,0,0.0,1
+Startup Failure (Retail Trade).csv,Years of Operation,str,0,0.0,57
+Startup Failure (Retail Trade).csv,What They Did,str,0,0.0,88
+Startup Failure (Retail Trade).csv,How Much They Raised,str,0,0.0,51
+Startup Failure (Retail Trade).csv,Why They Failed,str,0,0.0,90
+Startup Failure (Retail Trade).csv,Takeaway,str,0,0.0,89
+Startup Failure (Retail Trade).csv,Giants,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,No Budget,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Competition,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Poor Market Fit,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Acquisition Stagnation,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Platform Dependency,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Monetization Failure,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Niche Limits,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Execution Flaws,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Trend Shifts,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Toxicity/Trust Issues,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Regulatory Pressure,int64,0,0.0,2
+Startup Failure (Retail Trade).csv,Overhype,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Name,str,0,0.0,156
+Startup Failures (Information Sector).csv,Sector,str,0,0.0,1
+Startup Failures (Information Sector).csv,Years of Operation,str,0,0.0,88
+Startup Failures (Information Sector).csv,What They Did,str,0,0.0,152
+Startup Failures (Information Sector).csv,How Much They Raised,str,0,0.0,114
+Startup Failures (Information Sector).csv,Why They Failed,str,0,0.0,154
+Startup Failures (Information Sector).csv,Takeaway,str,0,0.0,153
+Startup Failures (Information Sector).csv,Giants,int64,0,0.0,2
+Startup Failures (Information Sector).csv,No Budget,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Competition,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Poor Market Fit,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Acquisition Stagnation,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Platform Dependency,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Monetization Failure,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Niche Limits,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Execution Flaws,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Trend Shifts,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Toxicity/Trust Issues,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Regulatory Pressure,int64,0,0.0,2
+Startup Failures (Information Sector).csv,Overhype,int64,0,0.0,2
+Startup Failures.csv,Name,str,0,0.0,814
+Startup Failures.csv,Sector,str,0,0.0,13
+Startup Failures.csv,Years of Operation,str,0,0.0,154
+synthetic_startup_metrics.csv,startup_id,str,0,0.0,200
+synthetic_startup_metrics.csv,stage,str,0,0.0,3
+synthetic_startup_metrics.csv,category_group,str,0,0.0,3
+synthetic_startup_metrics.csv,mrr_usd,float64,0,0.0,200
+synthetic_startup_metrics.csv,cac_usd,float64,0,0.0,199
+synthetic_startup_metrics.csv,ltv_usd,float64,0,0.0,200
+synthetic_startup_metrics.csv,ltv_cac_ratio,float64,0,0.0,167
+synthetic_startup_metrics.csv,monthly_burn_usd,float64,0,0.0,199
+synthetic_startup_metrics.csv,cash_in_bank_usd,float64,0,0.0,200
+synthetic_startup_metrics.csv,runway_months,float64,0,0.0,118
+synthetic_startup_metrics.csv,health_status,str,0,0.0,3

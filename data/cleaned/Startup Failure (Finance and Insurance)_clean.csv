@@ -1,0 +1,48 @@
+Name,Sector,Years of Operation,What They Did,How Much They Raised,Why They Failed,Takeaway,Giants,No Budget,Competition,Poor Market Fit,Acquisition Stagnation,Platform Dependency,Monetization Failure,Niche Limits,Execution Flaws,Trend Shifts,Toxicity/Trust Issues,Regulatory Pressure,Overhype,name_normalized,start_year,end_year,funding_raised_usd,funding_needs_review,High Operational Costs,duplicate_name
+Avant,Finance and Insurance,2012-2023,Online personal loans,$655M,Lost to LendingClub and high defaults,Lending needs risk balance,1,1,1,0,0,0,0,0,0,0,0,0,0,avant,2012,2023,655000000.0,False,,False
+Bitpass,Finance and Insurance,2002-2008,Micropayments platform,$2M,Lost to PayPal and low adoption,Micropayments need mass use,1,0,1,1,0,0,0,0,0,0,0,0,0,bitpass,2002,2008,2000000.0,False,,False
+Cake Financial,Finance and Insurance,2006-2011,Portfolio tracking tool,$3M,Lost to Mint and sold to TradeKing,Finance tools need scale,1,0,1,0,1,0,0,0,0,0,0,0,0,cakefinancial,2006,2011,3000000.0,False,,False
+Circle,Finance and Insurance,2013-2023,Crypto payments and stablecoin,$500M,Lost to Coinbase and market shifts,Crypto needs stability,1,0,1,0,0,0,0,0,0,1,0,0,0,circle,2013,2023,500000000.0,False,,False
+Clarity Money,Finance and Insurance,2016-2022,Personal finance app,$11M,Lost to Mint/Acorns and sold to Goldman,Finance apps need edge,1,0,1,0,1,0,0,0,0,0,0,0,0,claritymoney,2016,2022,11000000.0,False,,False
+Clinkle,Finance and Insurance,2011-2016,Mobile wallet,$30M,No product vs Apple Pay/PayPal,Execution over promises,1,0,1,0,0,0,0,0,1,0,0,0,1,clinkle,2011,2016,30000000.0,False,,False
+Coinbase NFT,Finance and Insurance,2021-2023,NFT marketplace,$0 (Coinbase-funded),Lost to OpenSea and NFT crash,NFTs need timing,1,0,1,0,0,0,0,0,0,1,0,0,0,coinbasenft,2021,2023,0.0,True,,False
+FundersClub,Finance and Insurance,2012-2022,Crowdfunding for startups,$20M,Lost to Kickstarter and low ROI,Crowdfunding needs hits,1,0,1,0,0,0,1,0,0,0,0,0,0,fundersclub,2012,2022,20000000.0,False,,False
+Fuze Network,Finance and Insurance,2010-2016,Prepaid card payments,$5M,Lost to Green Dot and small scale,Prepaid needs reach,1,0,1,0,0,0,0,1,0,0,0,0,0,fuzenetwork,2010,2016,5000000.0,False,,False
+Indiegogo Life,Finance and Insurance,2014-2019,Personal crowdfunding,$10M (est.),Lost to GoFundMe and niche focus,Personal funding needs appeal,1,0,1,1,0,0,0,1,0,0,0,0,0,indiegogolife,2014,2019,10000000.0,True,,False
+Isentium,Finance and Insurance,2012-2020,Social sentiment for trading,$15M,Lost to Bloomberg and low uptake,Trading tools need traction,1,0,1,1,0,0,0,0,0,0,0,0,0,isentium,2012,2020,15000000.0,False,,False
+LendUp,Finance and Insurance,2012-2021,Loans for subprime borrowers,$350M,Regulatory fines and OppLoans competition,Fintech can’t skirt regs,1,0,1,0,0,0,0,0,0,0,1,1,0,lendup,2012,2021,350000000.0,False,,False
+LendingClub,Finance and Insurance,2006-2021,P2P lending platform,$1B,Lost to banks and trust issues,P2P needs trust,1,0,1,0,0,0,0,0,0,0,1,0,0,lendingclub,2006,2021,1000000000.0,False,,False
+LendLayer,Finance and Insurance,2013-2017,Coding bootcamp loans,$0.4M,Lost to Affirm and sold,Small niches get swallowed,1,0,1,0,1,0,0,1,0,0,0,0,0,lendlayer,2013,2017,400000.0,False,,False
+Loyal3,Finance and Insurance,2008-2018,Commission-free brokerage,$30M,Lost to Robinhood and closed,Brokerages need volume,1,0,1,0,0,0,0,0,0,0,0,0,0,loyal3,2008,2018,30000000.0,False,,False
+Money360,Finance and Insurance,2012-2020,Real estate lending platform,$10M (est.),Lost to Fundrise and slow growth,Lending needs scale,1,0,1,0,0,0,0,0,0,0,0,0,0,money360,2012,2020,10000000.0,True,,False
+Monitor110,Finance and Insurance,2005-2008,Financial data aggregator,$3M (est.),Lost to Bloomberg and early market,Timing is key,1,0,1,1,0,0,0,0,0,0,0,0,0,monitor110,2005,2008,3000000.0,True,,False
+Mozido,Finance and Insurance,2008-2017,Mobile payments platform,$185M,Lost to Square and mismanagement,Payments need execution,1,0,1,0,0,0,0,0,1,0,0,0,0,mozido,2008,2017,185000000.0,False,,False
+Pawngo,Finance and Insurance,2011-2017,Online pawn lending,$6M,Lost to traditional pawnshops and niche,Niche lending needs demand,0,0,1,1,0,0,0,1,0,0,0,0,0,pawngo,2011,2017,6000000.0,False,,False
+Pay By Touch,Finance and Insurance,2002-2007,Biometric payments,$300M (est.),Lost to PayPal and tech issues,Biometrics need reliability,1,0,1,0,0,0,0,0,1,0,0,0,0,paybytouch,2002,2007,300000000.0,True,,False
+Plum Will,Finance and Insurance,2015-2020,Digital estate planning,$2M (est.),Lost to LegalZoom and low uptake,Estate tech needs traction,1,0,1,1,0,0,0,0,0,0,0,0,0,plumwill,2015,2020,2000000.0,True,,False
+PoundPay,Finance and Insurance,2009-2013,Payment gateway,$1M (est.),Lost to Stripe and sold,Payments need scale,1,0,1,0,1,0,0,0,0,0,0,0,0,poundpay,2009,2013,1000000.0,True,,False
+ReadyForZero,Finance and Insurance,2010-2017,Debt management app,$5M,Lost to Credit Karma and sold,Debt tools need edge,1,0,1,0,1,0,0,0,0,0,0,0,0,readyforzero,2010,2017,5000000.0,False,,False
+RushCard,Finance and Insurance,2003-2018,Prepaid debit card,$20M (est.),Lost to Chime and trust issues,Prepaid needs trust,1,0,1,0,0,0,0,0,0,0,1,0,0,rushcard,2003,2018,20000000.0,True,,False
+Seed,Finance and Insurance,2012-2017,Small biz banking,$5M,Lost to Brex and closed,Banking needs scale,1,0,1,0,0,0,0,0,0,0,0,0,0,seed,2012,2017,5000000.0,False,,False
+Sensible,Finance and Insurance,2016-2020,Personal finance for gig workers,$4M (est.),Lost to Even and niche,Niche finance needs reach,1,0,1,1,0,0,0,1,0,0,0,0,0,sensible,2016,2020,4000000.0,True,,False
+SigFig,Finance and Insurance,2007-2018,Robo-advisor,$70M,Lost to Wealthfront and sold,Robo-advisors need edge,1,0,1,0,1,0,0,0,0,0,0,0,0,sigfig,2007,2018,70000000.0,False,,False
+Simple,Finance and Insurance,2009-2016,Neobank with budgeting,$25M,Lost to Chime/Ally and shut post-BBVA sale,Neobanks need independence,1,0,1,0,1,0,0,0,0,0,0,0,0,simple,2009,2016,25000000.0,False,,False
+SmartAsset,Finance and Insurance,2012-2023,Financial planning tools,$161M,Lost to NerdWallet and slow growth,Planning needs traction,1,0,1,0,0,0,0,0,0,0,0,0,0,smartasset,2012,2023,161000000.0,False,,False
+SoFi Social,Finance and Insurance,2016-2021,Social finance platform,$0 (SoFi-funded),Lost to Robinhood and niche,Social finance needs scale,1,0,1,1,0,0,0,1,0,0,0,0,0,sofisocial,2016,2021,0.0,True,,False
+Square Cash,Finance and Insurance,2013-2020,P2P payments (early),$0 (Square-funded),Lost to Venmo and pivoted,Payments need dominance,1,0,1,0,0,0,0,0,0,0,0,0,0,squarecash,2013,2020,0.0,True,,False
+Taulia,Finance and Insurance,2009-2022,Supply chain finance,$200M,Lost to Coupa and sold,Finance needs edge,1,0,1,0,1,0,0,0,0,0,0,0,0,taulia,2009,2022,200000000.0,False,,False
+Tilt,Finance and Insurance,2012-2018,Social crowdfunding,$67M,Lost to GoFundMe and sold,Crowdfunding needs mass,1,0,1,0,1,0,0,0,0,0,0,0,0,tilt,2012,2018,67000000.0,False,,False
+Toshl,Finance and Insurance,2008-2020,Personal finance app,$1M (est.),Lost to Mint and low scale,Finance apps need reach,1,0,1,0,0,0,0,0,0,0,0,0,0,toshl,2008,2020,1000000.0,True,,False
+TrustEgg,Finance and Insurance,2012-2016,Crowdfunded trusts,$0.5M (est.),Lost to traditional trusts and niche,Niche needs demand,0,0,1,1,0,0,0,1,0,0,0,0,0,trustegg,2012,2016,500000.0,True,,False
+Upstart,Finance and Insurance,2012-2023,AI-driven lending,$144M,Lost to banks and high defaults,Lending needs stability,1,1,1,0,0,0,0,0,0,0,0,0,0,upstart,2012,2023,144000000.0,False,,False
+Vemo,Finance and Insurance,2015-2021,Income-share agreements,$20M (est.),Lost to Lambda School and regs,ISAs need traction,1,0,1,0,0,0,0,0,0,0,0,1,0,vemo,2015,2021,20000000.0,True,,False
+Venmo Groups,Finance and Insurance,2015-2020,Group payments feature,$0 (Venmo-funded),Lost to Splitwise and niche,Niche payments need use,1,0,1,1,0,0,0,1,0,0,0,0,0,venmogroups,2015,2020,0.0,True,,False
+Vittana,Finance and Insurance,2008-2015,Student microloans,$5M (est.),Lost to SoFi and low scale,Microloans need reach,1,0,1,0,0,0,0,1,0,0,0,0,0,vittana,2008,2015,5000000.0,True,,False
+Wealthfront Cash,Finance and Insurance,2018-2023,High-yield savings,$0 (Wealthfront-funded),Lost to Ally and pivoted,Savings need edge,1,0,1,0,0,0,0,0,0,0,0,0,0,wealthfrontcash,2018,2023,0.0,True,,False
+Wealthsimple Trade,Finance and Insurance,2017-2023,Commission-free trading,$0 (Wealthsimple-funded),Lost to Robinhood and pivoted,Trading needs volume,1,0,1,0,0,0,0,0,0,0,0,0,,wealthsimpletrade,2017,2023,0.0,True,,False
+Wepay,Finance and Insurance,2008-2020,Payment processing,$75M,Lost to Stripe and sold,Payments need scale,1,0,1,0,1,0,0,0,0,0,0,0,0,wepay,2008,2020,75000000.0,False,,False
+Wesabe,Finance and Insurance,2006-2011,Personal finance app,$4M,Lost to Mint and early market,Timing matters,1,0,1,1,0,0,0,0,0,0,0,0,0,wesabe,2006,2011,4000000.0,False,,False
+Wise,Finance and Insurance,2011-2023,International transfers,$689M,Lost to PayPal and high costs,Transfers need edge,1,1,1,0,0,0,0,0,0,0,0,0,0,wise,2011,2023,689000000.0,False,,False
+YayPay,Finance and Insurance,2015-2021,Accounts receivable automation,$15M,Lost to Bill.com and sold,Automation needs scale,1,0,1,0,1,0,0,0,0,0,0,0,0,yaypay,2015,2021,15000000.0,False,,False
+Ycharts,Finance and Insurance,2009-2021,Financial data platform,$15M,Lost to Bloomberg and sold,Data needs dominance,1,0,1,0,1,0,0,0,0,0,0,0,0,ycharts,2009,2021,15000000.0,False,,False
+ZestFinance,Finance and Insurance,2009-2020,AI underwriting loans,$112M,Lost to Upstart and regs,Lending needs compliance,1,0,1,0,0,0,0,0,0,0,0,1,0,zestfinance,2009,2020,112000000.0,False,,False
