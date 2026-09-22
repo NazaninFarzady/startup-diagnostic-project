@@ -8,8 +8,6 @@ raw,data\raw\Startup Failure (Retail Trade).csv,14672,18bbb7af833a4f7036c6741e4c
 raw,data\raw\Startup Failures (Information Sector).csv,24346,fccabb8abcab5d0471893839d1db622e929db7c8513c39ac3522c6b029bc2e75,1.0
 raw,data\raw\Startup Failures.csv,34883,af7da525e048881ca37bbe3900f56dd0a4d4f644b438ab0a8cf111aa0d9d40cc,1.0
 raw,data\raw\synthetic_startup_metrics.csv,19381,98a204201678cd777e643a838697eb2e60ccecd24661d0949c34b3e0fdb1fa85,1.0
-cleaned,data\cleaned\#cleaned_macro_startups.csv,11446511,306b6823c5b92c730b9e8e908cd370d56974c6e3db6e47c1c63e5f7def6f7046,1.0
-cleaned,data\cleaned\#cleaned_micro_metrics.csv,19381,98a204201678cd777e643a838697eb2e60ccecd24661d0949c34b3e0fdb1fa85,1.0
 cleaned,data\cleaned\big_startups_clean.csv,13807668,b95acfdb8109612fcff2a20dcb6b56241f26a1e4bfae15996351caa734b8aa28,1.0
 cleaned,data\cleaned\cleaning_summary.csv,831,b33a1831b00c232922512fe2bb805334677be03cc1eae1ca158c7d681969577a,1.0
 cleaned,data\cleaned\Startup Failure (Finance and Insurance)_clean.csv,9579,4b95a6807d8e5f1b9ca869f85cddc03421b3926579cecc57ed861b85b3d8812e,1.0

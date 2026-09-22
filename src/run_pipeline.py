@@ -19,13 +19,13 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 NOTEBOOK_DIR = PROJECT_ROOT / "notebooks"
 
 NOTEBOOK_STEPS = {
-    4: "Step_4_Build_Analysis_Ready_Tables.ipynb",
-    5: "Step_5_Engineer_Useful_Features.ipynb",
-    6: "04_Exploratory_Analysis_Reviewed.ipynb",
-    7: "05_Answer_Three_Diagnostic_Questions.ipynb",
-    8: "06_Validate_Findings.ipynb",
-    9: "07_Convert_Findings_Into_Diagnostics.ipynb",
-    10: "08_Save_And_Reproduce_Pipeline.ipynb",
+    4: "01_Build_Analysis_Ready_Tables.ipynb",
+    5: "02_Engineer_Useful_Features.ipynb",
+    6: "03_Exploratory_Analysis.ipynb",
+    7: "04_Answer_Three_Diagnostic_Questions.ipynb",
+    8: "05_Validate_Findings.ipynb",
+    9: "06_Convert_Findings_Into_Diagnostics.ipynb",
+    10: "07_Save_And_Reproduce_Pipeline.ipynb",
 }
 
 
