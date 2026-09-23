@@ -1,6 +1,0 @@
-Metric,Holdout value,Meaning
-Balanced accuracy,0.592,Average recall across both outcome classes
-ROC-AUC,0.638,Ability to rank exits above non-exits
-Exit precision,0.237,Share of predicted exits that are observed exits
-Exit recall,0.596,Share of observed exits identified
-Exit F1,0.339,Balance of exit precision and recall

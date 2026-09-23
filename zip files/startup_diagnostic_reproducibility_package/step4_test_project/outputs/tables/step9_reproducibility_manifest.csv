@@ -1,7 +1,0 @@
-item_type,name,rows,rule_version,note
-Input,startup_metrics_feature_table.csv,200,1.0,Synthetic startup operating metrics
-Input,failure_feature_table.csv,409,1.0,Historical failed-startup factors
-Input,crunchbase_feature_table.csv,66368,1.0,Startup funding and observed status
-Output,step9_startup_health_diagnostics.csv,291,1.0,Ranked startup health bottlenecks
-Output,step9_sector_failure_diagnostics.csv,18,1.0,Top three historical risk hypotheses by sector
-Output,step9_funding_diagnostics.csv,15878,1.0,Funding-position diagnostic for eligible peer cohorts

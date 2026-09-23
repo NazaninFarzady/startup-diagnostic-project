@@ -1,5 +1,0 @@
-table,rows,columns,purpose
-failure_analysis_table.csv,409,30,Failure factors and sector comparisons
-crunchbase_analysis_table.csv,66368,16,Funding and observed-status comparisons
-startup_metrics_analysis_table.csv,200,16,Runway and unit-economics analysis
-potential_company_matches.csv,257,10,Manual match review only

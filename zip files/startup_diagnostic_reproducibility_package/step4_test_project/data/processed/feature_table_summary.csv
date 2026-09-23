@@ -1,4 +1,0 @@
-table,rows,columns,new_features
-crunchbase_feature_table.csv,66368,26,"company age, funding delay, funding span, funding band, founding cohort, peer cohort"
-failure_feature_table.csv,409,36,"failure-factor count, risk combination, operating years, funding band, peer cohort"
-startup_metrics_feature_table.csv,200,19,"runway band, peer cohort"
